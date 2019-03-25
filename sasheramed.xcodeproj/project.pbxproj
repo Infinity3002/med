@@ -7,21 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0CEC705AB250CC940FDACD87 /* Pods_sasheramed.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF26F2F208F469F5993362A9 /* Pods_sasheramed.framework */; };
+		7B67752F2248EA8300C3844A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B67752E2248EA8300C3844A /* Extensions.swift */; };
 		7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADE4ED22466329006923F1 /* AppDelegate.swift */; };
-		7BADE4F022466329006923F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADE4EF22466329006923F1 /* ViewController.swift */; };
+		7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADE4EF22466329006923F1 /* AuthSelectionVC.swift */; };
 		7BADE4F322466329006923F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F122466329006923F1 /* Main.storyboard */; };
 		7BADE4F52246632C006923F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F42246632C006923F1 /* Assets.xcassets */; };
 		7BADE4F82246632C006923F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F62246632C006923F1 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08685823AB5AEB4F7434D269 /* Pods-sasheramed.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sasheramed.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sasheramed/Pods-sasheramed.debug.xcconfig"; sourceTree = "<group>"; };
+		19009B9B75F89927E690F60A /* Pods-sasheramed.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sasheramed.release.xcconfig"; path = "Pods/Target Support Files/Pods-sasheramed/Pods-sasheramed.release.xcconfig"; sourceTree = "<group>"; };
+		7B67752E2248EA8300C3844A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		7BADE4EA22466329006923F1 /* sasheramed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sasheramed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BADE4ED22466329006923F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7BADE4EF22466329006923F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7BADE4EF22466329006923F1 /* AuthSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AuthSelectionVC\U0003.swift"; sourceTree = "<group>"; };
 		7BADE4F222466329006923F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7BADE4F42246632C006923F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BADE4F72246632C006923F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BADE4F92246632C006923F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF26F2F208F469F5993362A9 /* Pods_sasheramed.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sasheramed.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +35,52 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CEC705AB250CC940FDACD87 /* Pods_sasheramed.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3497021AF45C2FDADFA0C12B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				08685823AB5AEB4F7434D269 /* Pods-sasheramed.debug.xcconfig */,
+				19009B9B75F89927E690F60A /* Pods-sasheramed.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5DB7A37C901ADAD4AAA75AE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FF26F2F208F469F5993362A9 /* Pods_sasheramed.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7B67752D2248EA4A00C3844A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				7B67752E2248EA8300C3844A /* Extensions.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		7B677530224902A300C3844A /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		7BADE4E122466329006923F1 = {
 			isa = PBXGroup;
 			children = (
 				7BADE4EC22466329006923F1 /* sasheramed */,
 				7BADE4EB22466329006923F1 /* Products */,
+				3497021AF45C2FDADFA0C12B /* Pods */,
+				5DB7A37C901ADAD4AAA75AE9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,8 +95,10 @@
 		7BADE4EC22466329006923F1 /* sasheramed */ = {
 			isa = PBXGroup;
 			children = (
+				7B677530224902A300C3844A /* Fonts */,
+				7B67752D2248EA4A00C3844A /* Utils */,
 				7BADE4ED22466329006923F1 /* AppDelegate.swift */,
-				7BADE4EF22466329006923F1 /* ViewController.swift */,
+				7BADE4EF22466329006923F1 /* AuthSelectionVC.swift */,
 				7BADE4F122466329006923F1 /* Main.storyboard */,
 				7BADE4F42246632C006923F1 /* Assets.xcassets */,
 				7BADE4F62246632C006923F1 /* LaunchScreen.storyboard */,
@@ -71,9 +114,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7BADE4FC2246632C006923F1 /* Build configuration list for PBXNativeTarget "sasheramed" */;
 			buildPhases = (
+				F6F240F69AD3F02BBDD36296 /* [CP] Check Pods Manifest.lock */,
 				7BADE4E622466329006923F1 /* Sources */,
 				7BADE4E722466329006923F1 /* Frameworks */,
 				7BADE4E822466329006923F1 /* Resources */,
+				A03300C68DF933B196F16018 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -130,12 +175,78 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		A03300C68DF933B196F16018 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-sasheramed/Pods-sasheramed-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/Locksmith/Locksmith.framework",
+				"${BUILT_PRODUCTS_DIR}/MarqueeLabel/MarqueeLabel.framework",
+				"${BUILT_PRODUCTS_DIR}/NotificationBannerSwift/NotificationBannerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/RxAtomic/RxAtomic.framework",
+				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
+				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework",
+				"${BUILT_PRODUCTS_DIR}/SwinjectStoryboard/SwinjectStoryboard.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Locksmith.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MarqueeLabel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NotificationBannerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxAtomic.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Swinject.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwinjectStoryboard.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-sasheramed/Pods-sasheramed-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6F240F69AD3F02BBDD36296 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-sasheramed-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		7BADE4E622466329006923F1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7BADE4F022466329006923F1 /* ViewController.swift in Sources */,
+				7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */,
+				7B67752F2248EA8300C3844A /* Extensions.swift in Sources */,
 				7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,11 +391,13 @@
 		};
 		7BADE4FD2246632C006923F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 08685823AB5AEB4F7434D269 /* Pods-sasheramed.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D29524FZNR;
 				INFOPLIST_FILE = sasheramed/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -292,17 +405,19 @@
 				PRODUCT_BUNDLE_IDENTIFIER = prog.sasheramed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		7BADE4FE2246632C006923F1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 19009B9B75F89927E690F60A /* Pods-sasheramed.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D29524FZNR;
 				INFOPLIST_FILE = sasheramed/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,7 +425,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = prog.sasheramed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
