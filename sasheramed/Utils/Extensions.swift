@@ -24,10 +24,57 @@ extension UIColor {
         }
     }
     
-    class func BGGreen() -> UIColor {
+    class func bgGreen() -> UIColor {
         return UIColor.init(hexString: "#367b55")
       
     }
+}
+
+extension UITextField: UITextFieldDelegate {
+    
+    open override func awakeFromNib() {
+        delegate = self
+    }
+    
+    public func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        textField.resignFirstResponder()
+        return false
+    }
+    
+    
+    func setCardView(){
+        setLeftPaddingPoints(10)
+        setRightPaddingPoints(10)
+        layer.masksToBounds = false
+        layer.shadowOffset = CGSize(width: 0, height: 3)
+        layer.shadowRadius = 2
+        layer.shadowOpacity = 0.1
+    }
+    
+    func setLeftPaddingPoints(_ amount:CGFloat){
+        let paddingView = UIView(frame: CGRect(x: 0, y: 0, width: amount, height: self.frame.size.height))
+        self.leftView = paddingView
+        self.leftViewMode = .always
+    }
+    
+    func setRightPaddingPoints(_ amount:CGFloat) {
+        let paddingView = UIView(frame: CGRect(x: 0, y: 0, width: amount, height: self.frame.size.height))
+        self.rightView = paddingView
+        self.rightViewMode = .always
+    }
+    
+    @IBInspectable var isShowCard: Bool {
+        get {
+            return layer.shadowRadius > 0
+        }
+        
+        set {
+            if(newValue){
+                setCardView()
+            }
+        }
+    }
+  
 }
 
 extension UIView {

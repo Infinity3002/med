@@ -5,6 +5,529 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>02E530C4-35C6-42AE-98E5-B6156C7984DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>02E530C4-35C6-42AE-98E5-B6156C7984DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575497152.38226402</real>
+			<key>timeStoppedRecording</key>
+			<real>575500614.46224296</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>02E530C4-35C6-42AE-98E5-B6156C7984DA</string>
+		</dict>
+		<key>0B1860C6-17FC-40DE-BDF4-5A49C256F959</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B1860C6-17FC-40DE-BDF4-5A49C256F959.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575496594.35264003</real>
+			<key>timeStoppedRecording</key>
+			<real>575496839.41145694</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>0B1860C6-17FC-40DE-BDF4-5A49C256F959</string>
+		</dict>
+		<key>18A9B317-BD16-4AC4-9B2F-AFDB2B73A9B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>18A9B317-BD16-4AC4-9B2F-AFDB2B73A9B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575495183.62652695</real>
+			<key>timeStoppedRecording</key>
+			<real>575495265.11855197</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>18A9B317-BD16-4AC4-9B2F-AFDB2B73A9B3</string>
+		</dict>
+		<key>224F9324-43E3-4DE6-A867-D07E4449FFFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>224F9324-43E3-4DE6-A867-D07E4449FFFF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575496313.89009905</real>
+			<key>timeStoppedRecording</key>
+			<real>575496535.31356502</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>224F9324-43E3-4DE6-A867-D07E4449FFFF</string>
+		</dict>
+		<key>3EF5BAE5-8522-4109-AD28-34536AC7ABF6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3EF5BAE5-8522-4109-AD28-34536AC7ABF6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575496535.60404694</real>
+			<key>timeStoppedRecording</key>
+			<real>575496582.28805602</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>3EF5BAE5-8522-4109-AD28-34536AC7ABF6</string>
+		</dict>
+		<key>549504E1-197F-4D23-8B6E-660F63A1E232</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>549504E1-197F-4D23-8B6E-660F63A1E232.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575495002.61670196</real>
+			<key>timeStoppedRecording</key>
+			<real>575495089.22495103</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>549504E1-197F-4D23-8B6E-660F63A1E232</string>
+		</dict>
+		<key>571AF895-78D4-4DE8-8C9D-28BB18157DDE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>571AF895-78D4-4DE8-8C9D-28BB18157DDE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575495303.56874895</real>
+			<key>timeStoppedRecording</key>
+			<real>575496104.64825904</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>571AF895-78D4-4DE8-8C9D-28BB18157DDE</string>
+		</dict>
+		<key>57489691-4D12-42D1-9DFB-3F5586508842</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>57489691-4D12-42D1-9DFB-3F5586508842.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575494687.91708803</real>
+			<key>timeStoppedRecording</key>
+			<real>575494735.97248006</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>57489691-4D12-42D1-9DFB-3F5586508842</string>
+		</dict>
+		<key>5DDC8657-A080-4244-A145-2BFD51F6DCC4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5DDC8657-A080-4244-A145-2BFD51F6DCC4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575494365.403561</real>
+			<key>timeStoppedRecording</key>
+			<real>575494461.62756097</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>5DDC8657-A080-4244-A145-2BFD51F6DCC4</string>
+		</dict>
+		<key>850E7B3B-14AC-4185-A625-0305A8D81D72</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>850E7B3B-14AC-4185-A625-0305A8D81D72.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575494474.380952</real>
+			<key>timeStoppedRecording</key>
+			<real>575494591.08742797</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>850E7B3B-14AC-4185-A625-0305A8D81D72</string>
+		</dict>
+		<key>8AA229AC-7AC4-4407-AEDF-9395CC3A9780</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AA229AC-7AC4-4407-AEDF-9395CC3A9780.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575493874.49765098</real>
+			<key>timeStoppedRecording</key>
+			<real>575494065.20102298</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>8AA229AC-7AC4-4407-AEDF-9395CC3A9780</string>
+		</dict>
+		<key>93EC47BF-88C7-4072-95B0-553112879480</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>93EC47BF-88C7-4072-95B0-553112879480.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575494944.983217</real>
+			<key>timeStoppedRecording</key>
+			<real>575494994.57950997</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>93EC47BF-88C7-4072-95B0-553112879480</string>
+		</dict>
+		<key>99833294-988A-4DB8-8203-A551F0C25086</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>99833294-988A-4DB8-8203-A551F0C25086.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575492901.270033</real>
+			<key>timeStoppedRecording</key>
+			<real>575493018.75537503</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>99833294-988A-4DB8-8203-A551F0C25086</string>
+		</dict>
+		<key>A8786D6A-1DBF-458B-A9A3-FADE73C892BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A8786D6A-1DBF-458B-A9A3-FADE73C892BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575495093.53296101</real>
+			<key>timeStoppedRecording</key>
+			<real>575495179.52383602</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>A8786D6A-1DBF-458B-A9A3-FADE73C892BE</string>
+		</dict>
+		<key>B40D1AEB-D0FA-4156-9726-5D31A61B89B6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B40D1AEB-D0FA-4156-9726-5D31A61B89B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575495272.94519496</real>
+			<key>timeStoppedRecording</key>
+			<real>575495291.79616499</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>B40D1AEB-D0FA-4156-9726-5D31A61B89B6</string>
+		</dict>
+		<key>D036A4FA-DAFF-4D52-B54D-DCA6CC80FC83</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D036A4FA-DAFF-4D52-B54D-DCA6CC80FC83.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575494746.58775306</real>
+			<key>timeStoppedRecording</key>
+			<real>575494910.80157197</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>D036A4FA-DAFF-4D52-B54D-DCA6CC80FC83</string>
+		</dict>
+		<key>F052B684-9A33-437E-AF08-4E581C0470EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F052B684-9A33-437E-AF08-4E581C0470EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575500998.09224999</real>
+			<key>timeStoppedRecording</key>
+			<real>575506141.952016</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>F052B684-9A33-437E-AF08-4E581C0470EF</string>
+		</dict>
+		<key>FDE45E43-58DC-4F53-BC9B-6232CF655FFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FDE45E43-58DC-4F53-BC9B-6232CF655FFF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sasheramed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sasheramed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug sasheramed</string>
+			<key>timeStartedRecording</key>
+			<real>575500629.991943</real>
+			<key>timeStoppedRecording</key>
+			<real>575500989.13240504</real>
+			<key>title</key>
+			<string>Debug sasheramed</string>
+			<key>uniqueIdentifier</key>
+			<string>FDE45E43-58DC-4F53-BC9B-6232CF655FFF</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
