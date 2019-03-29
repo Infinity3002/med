@@ -109,6 +109,7 @@
 		7B39BD6222499302005C41B3 /* Features */ = {
 			isa = PBXGroup;
 			children = (
+				7BA7FDA9224E0CDE00F51E76 /* Shop */,
 				7BDDC3C1224BC1D6002EF297 /* User */,
 				7B39BD632249933A005C41B3 /* Auth */,
 			);
@@ -166,6 +167,13 @@
 				7B1570F9224D392A0061D384 /* BottomSpaceKeyboard.swift */,
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		7BA7FDA9224E0CDE00F51E76 /* Shop */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Shop;
 			sourceTree = "<group>";
 		};
 		7BADE4E122466329006923F1 = {
