@@ -15,12 +15,26 @@
 		7B157103224D51330061D384 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B157102224D51330061D384 /* SignUpVC.swift */; };
 		7B39BD68224A29E4005C41B3 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B39BD67224A29E4005C41B3 /* SignInVC.swift */; };
 		7B39BD6B224A2ABF005C41B3 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B39BD6A224A2ABF005C41B3 /* BaseVC.swift */; };
+		7B412B3E22522918001918D4 /* OfferVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B412B3D22522918001918D4 /* OfferVC.swift */; };
+		7B412B4022522DD5001918D4 /* GradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B412B3F22522DD5001918D4 /* GradientButton.swift */; };
+		7B412B422252404D001918D4 /* OfferCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B412B412252404D001918D4 /* OfferCell.swift */; };
+		7B419D5B224EBE3500BC4321 /* DetailProductVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B419D5A224EBE3500BC4321 /* DetailProductVC.swift */; };
 		7B67752F2248EA8300C3844A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B67752E2248EA8300C3844A /* Extensions.swift */; };
+		7BA7FDAC224E11FD00F51E76 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA7FDAB224E11FD00F51E76 /* MainVC.swift */; };
+		7BA7FDAE224E125900F51E76 /* Shop.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BA7FDAD224E125900F51E76 /* Shop.storyboard */; };
+		7BA7FDB0224E42BF00F51E76 /* ProductMiniVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA7FDAF224E42BF00F51E76 /* ProductMiniVC.swift */; };
+		7BA7FDB2224E492300F51E76 /* ProductMiniCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA7FDB1224E492300F51E76 /* ProductMiniCell.swift */; };
+		7BA7FDB6224E4EF700F51E76 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA7FDB5224E4EF700F51E76 /* Product.swift */; };
 		7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADE4ED22466329006923F1 /* AppDelegate.swift */; };
 		7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BADE4EF22466329006923F1 /* AuthSelectionVC.swift */; };
 		7BADE4F322466329006923F1 /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F122466329006923F1 /* Auth.storyboard */; };
 		7BADE4F52246632C006923F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F42246632C006923F1 /* Assets.xcassets */; };
 		7BADE4F82246632C006923F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F62246632C006923F1 /* LaunchScreen.storyboard */; };
+		7BD0C8672253801C00325CEB /* IndicatorPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C8662253801C00325CEB /* IndicatorPage.swift */; };
+		7BD0C86D22538D3700325CEB /* CHILayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C86C22538D3700325CEB /* CHILayer.swift */; };
+		7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */; };
+		7BD0C87122538D8F00325CEB /* CHIBasePageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */; };
+		7BD0C87322538E9C00325CEB /* CHIPageControlAleppo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87222538E9C00325CEB /* CHIPageControlAleppo.swift */; };
 		7BDDC3C5224BC229002EF297 /* PersonalAreaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDDC3C4224BC229002EF297 /* PersonalAreaVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +48,16 @@
 		7B157102224D51330061D384 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
 		7B39BD67224A29E4005C41B3 /* SignInVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInVC.swift; sourceTree = "<group>"; };
 		7B39BD6A224A2ABF005C41B3 /* BaseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
+		7B412B3D22522918001918D4 /* OfferVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferVC.swift; sourceTree = "<group>"; };
+		7B412B3F22522DD5001918D4 /* GradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButton.swift; sourceTree = "<group>"; };
+		7B412B412252404D001918D4 /* OfferCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferCell.swift; sourceTree = "<group>"; };
+		7B419D5A224EBE3500BC4321 /* DetailProductVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailProductVC.swift; sourceTree = "<group>"; };
 		7B67752E2248EA8300C3844A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		7BA7FDAB224E11FD00F51E76 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		7BA7FDAD224E125900F51E76 /* Shop.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Shop.storyboard; sourceTree = "<group>"; };
+		7BA7FDAF224E42BF00F51E76 /* ProductMiniVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductMiniVC.swift; sourceTree = "<group>"; };
+		7BA7FDB1224E492300F51E76 /* ProductMiniCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductMiniCell.swift; sourceTree = "<group>"; };
+		7BA7FDB5224E4EF700F51E76 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		7BADE4EA22466329006923F1 /* sasheramed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sasheramed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BADE4ED22466329006923F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BADE4EF22466329006923F1 /* AuthSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AuthSelectionVC\U0003.swift"; sourceTree = "<group>"; };
@@ -42,6 +65,11 @@
 		7BADE4F42246632C006923F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BADE4F72246632C006923F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BADE4F92246632C006923F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BD0C8662253801C00325CEB /* IndicatorPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IndicatorPage.swift; path = "../New Group/IndicatorPage.swift"; sourceTree = "<group>"; };
+		7BD0C86C22538D3700325CEB /* CHILayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CHILayer.swift; path = sasheramed/Utils/CHILayer.swift; sourceTree = SOURCE_ROOT; };
+		7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIPageControllable.swift; sourceTree = "<group>"; };
+		7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIBasePageControl.swift; sourceTree = "<group>"; };
+		7BD0C87222538E9C00325CEB /* CHIPageControlAleppo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIPageControlAleppo.swift; sourceTree = "<group>"; };
 		7BDDC3C4224BC229002EF297 /* PersonalAreaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalAreaVC.swift; sourceTree = "<group>"; };
 		FF26F2F208F469F5993362A9 /* Pods_sasheramed.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sasheramed.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -159,12 +187,31 @@
 			path = Core;
 			sourceTree = "<group>";
 		};
+		7B412B3C225225A4001918D4 /* Offer */ = {
+			isa = PBXGroup;
+			children = (
+				7B412B3D22522918001918D4 /* OfferVC.swift */,
+				7B412B412252404D001918D4 /* OfferCell.swift */,
+			);
+			path = Offer;
+			sourceTree = "<group>";
+		};
+		7B419D59224EBE1600BC4321 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				7B419D5A224EBE3500BC4321 /* DetailProductVC.swift */,
+			);
+			path = Detail;
+			sourceTree = "<group>";
+		};
 		7B67752D2248EA4A00C3844A /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				7BD0C86922538BF300325CEB /* Indicator */,
 				7B67752E2248EA8300C3844A /* Extensions.swift */,
 				7B1570F7224D15CB0061D384 /* TextFieldUnderline.swift */,
 				7B1570F9224D392A0061D384 /* BottomSpaceKeyboard.swift */,
+				7B412B3F22522DD5001918D4 /* GradientButton.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -172,8 +219,39 @@
 		7BA7FDA9224E0CDE00F51E76 /* Shop */ = {
 			isa = PBXGroup;
 			children = (
+				7BA7FDB4224E4ED500F51E76 /* UI */,
+				7BA7FDB3224E4EC500F51E76 /* Models */,
+				7BA7FDAD224E125900F51E76 /* Shop.storyboard */,
+				7BA7FDAF224E42BF00F51E76 /* ProductMiniVC.swift */,
+				7BA7FDB1224E492300F51E76 /* ProductMiniCell.swift */,
 			);
 			path = Shop;
+			sourceTree = "<group>";
+		};
+		7BA7FDAA224E11DD00F51E76 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				7BA7FDAB224E11FD00F51E76 /* MainVC.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		7BA7FDB3224E4EC500F51E76 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7BA7FDB5224E4EF700F51E76 /* Product.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7BA7FDB4224E4ED500F51E76 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				7B412B3C225225A4001918D4 /* Offer */,
+				7B419D59224EBE1600BC4321 /* Detail */,
+				7BA7FDAA224E11DD00F51E76 /* Main */,
+			);
+			path = UI;
 			sourceTree = "<group>";
 		};
 		7BADE4E122466329006923F1 = {
@@ -210,6 +288,34 @@
 			path = sasheramed;
 			sourceTree = "<group>";
 		};
+		7BD0C86922538BF300325CEB /* Indicator */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C86A22538C1600325CEB /* SwipeIndicator */,
+				7BD0C8662253801C00325CEB /* IndicatorPage.swift */,
+			);
+			path = Indicator;
+			sourceTree = "<group>";
+		};
+		7BD0C86A22538C1600325CEB /* SwipeIndicator */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C86B22538D2000325CEB /* Core */,
+				7BD0C87222538E9C00325CEB /* CHIPageControlAleppo.swift */,
+			);
+			path = SwipeIndicator;
+			sourceTree = "<group>";
+		};
+		7BD0C86B22538D2000325CEB /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C86C22538D3700325CEB /* CHILayer.swift */,
+				7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */,
+				7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
 		7BDDC3C1224BC1D6002EF297 /* User */ = {
 			isa = PBXGroup;
 			children = (
@@ -224,8 +330,7 @@
 				7BDDC3C3224BC1F7002EF297 /* Personal */,
 				7B1570F5224D06A10061D384 /* User.storyboard */,
 			);
-			name = UI;
-			path = "../New Group/UI";
+			path = UI;
 			sourceTree = "<group>";
 		};
 		7BDDC3C3224BC1F7002EF297 /* Personal */ = {
@@ -270,6 +375,7 @@
 				TargetAttributes = {
 					7BADE4E922466329006923F1 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
@@ -297,6 +403,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BADE4F82246632C006923F1 /* LaunchScreen.storyboard in Resources */,
+				7BA7FDAE224E125900F51E76 /* Shop.storyboard in Resources */,
 				7B1570F6224D06A10061D384 /* User.storyboard in Resources */,
 				7BADE4F52246632C006923F1 /* Assets.xcassets in Resources */,
 				7BADE4F322466329006923F1 /* Auth.storyboard in Resources */,
@@ -378,13 +485,26 @@
 				7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */,
 				7B1570FE224D43650061D384 /* AppStoryboard.swift in Sources */,
 				7BDDC3C5224BC229002EF297 /* PersonalAreaVC.swift in Sources */,
+				7B412B3E22522918001918D4 /* OfferVC.swift in Sources */,
 				7B67752F2248EA8300C3844A /* Extensions.swift in Sources */,
+				7BA7FDAC224E11FD00F51E76 /* MainVC.swift in Sources */,
+				7BA7FDB0224E42BF00F51E76 /* ProductMiniVC.swift in Sources */,
 				7B39BD68224A29E4005C41B3 /* SignInVC.swift in Sources */,
+				7B412B422252404D001918D4 /* OfferCell.swift in Sources */,
 				7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */,
+				7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */,
 				7B1570F8224D15CB0061D384 /* TextFieldUnderline.swift in Sources */,
 				7B1570FA224D392A0061D384 /* BottomSpaceKeyboard.swift in Sources */,
 				7B157103224D51330061D384 /* SignUpVC.swift in Sources */,
+				7B419D5B224EBE3500BC4321 /* DetailProductVC.swift in Sources */,
+				7BD0C87322538E9C00325CEB /* CHIPageControlAleppo.swift in Sources */,
+				7BA7FDB2224E492300F51E76 /* ProductMiniCell.swift in Sources */,
 				7B39BD6B224A2ABF005C41B3 /* BaseVC.swift in Sources */,
+				7B412B4022522DD5001918D4 /* GradientButton.swift in Sources */,
+				7BD0C87122538D8F00325CEB /* CHIBasePageControl.swift in Sources */,
+				7BD0C8672253801C00325CEB /* IndicatorPage.swift in Sources */,
+				7BD0C86D22538D3700325CEB /* CHILayer.swift in Sources */,
+				7BA7FDB6224E4EF700F51E76 /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

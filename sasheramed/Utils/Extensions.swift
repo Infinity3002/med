@@ -45,7 +45,6 @@ extension UITextField: UITextFieldDelegate {
     func setCardView(){
         setLeftPaddingPoints(10)
         setRightPaddingPoints(10)
-        layer.masksToBounds = false
         layer.shadowOffset = CGSize(width: 0, height: 3)
         layer.shadowRadius = 2
         layer.shadowOpacity = 0.1
@@ -74,22 +73,35 @@ extension UITextField: UITextFieldDelegate {
             }
         }
     }
-  
+    
+    @IBInspectable var rightImage: UIImage? {
+        get{
+            return (self.rightView as? UIImageView)?.image
+        }
+        
+        set {
+            let view = UIImageView(image: newValue!.imageWithInsets(insets: UIEdgeInsets(top: 0, left: 0,bottom:0,right: 15)))
+            self.rightView = view
+            self.rightViewMode = .always
+        }
+    }
+    
 }
+
+
 
 extension UIView {
     
     /*  private struct AssociatedKeys {
      static var mPadding = CGFloat()
      }*/
-    
+
     @IBInspectable var cornerRadius: CGFloat {
         get {
             return layer.cornerRadius
         }
         set {
             layer.cornerRadius = newValue
-            layer.masksToBounds = newValue > 0
         }
     }
     
@@ -111,5 +123,66 @@ extension UIView {
         }
     }
     
+    @IBInspectable var shadowRadius: CGFloat {
+        get {
+            return layer.shadowRadius
+        }
+        set {
+            layer.shadowRadius = newValue
+        }
+    }
     
+    @IBInspectable var shadowOpacity: Float {
+        get {
+            return layer.shadowOpacity
+        }
+        set {
+            layer.shadowOpacity = newValue
+        }
+    }
+    
+    @IBInspectable var shadowColor: UIColor? {
+        get {
+            return UIColor(cgColor: layer.shadowColor ?? UIColor.clear.cgColor)
+        }
+        set {
+            layer.shadowColor = newValue?.cgColor
+        }
+    }
+    
+    @IBInspectable var shadowOffset: CGSize {
+        get {
+            return layer.shadowOffset
+        }
+        set {
+            
+            layer.masksToBounds = false
+            layer.shadowOffset = newValue
+        }
+    }
+    
+    @IBInspectable var maskToBounds: Bool {
+        get {
+            return layer.masksToBounds
+        }
+        
+        set {
+            layer.masksToBounds = newValue
+        }
+    }
+    
+}
+
+extension UIImage {
+    func imageWithInsets(insets: UIEdgeInsets) -> UIImage? {
+        UIGraphicsBeginImageContextWithOptions(
+            CGSize(width: self.size.width + insets.left + insets.right,
+                   height: self.size.height + insets.top + insets.bottom), false, self.scale)
+        let _ = UIGraphicsGetCurrentContext()
+        let origin = CGPoint(x: insets.left, y: insets.top)
+        self.draw(at: origin)
+        let imageWithInsets = UIGraphicsGetImageFromCurrentImageContext()
+        UIGraphicsEndImageContext()
+        return imageWithInsets
+    }
 }

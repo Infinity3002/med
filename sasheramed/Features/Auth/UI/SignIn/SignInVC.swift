@@ -12,4 +12,8 @@ class SignInVC: BaseVC {
     
     override func viewDidLoad() {
     }
+    
+    @IBAction func onClickEnter(_ sender: Any) {
+         self.present(MainVC.instantiateFromAppStoryboard(appStoryboard: .Shop), animated: true)
+    }
 }
