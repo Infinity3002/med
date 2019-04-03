@@ -35,6 +35,12 @@
 		7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */; };
 		7BD0C87122538D8F00325CEB /* CHIBasePageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */; };
 		7BD0C87322538E9C00325CEB /* CHIPageControlAleppo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87222538E9C00325CEB /* CHIPageControlAleppo.swift */; };
+		7BD0C8762254928D00325CEB /* ContactsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C8752254928D00325CEB /* ContactsVC.swift */; };
+		7BD0C8782254954100325CEB /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C8772254954100325CEB /* ContactCell.swift */; };
+		7BD0C87B2254BD2000325CEB /* BasketVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87A2254BD2000325CEB /* BasketVC.swift */; };
+		7BD0C87D2254C60C00325CEB /* BasketCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87C2254C60C00325CEB /* BasketCell.swift */; };
+		7BD0C8802254D97000325CEB /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87F2254D97000325CEB /* SearchVC.swift */; };
+		7BD0C8822254E30E00325CEB /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C8812254E30E00325CEB /* SearchCell.swift */; };
 		7BDDC3C5224BC229002EF297 /* PersonalAreaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDDC3C4224BC229002EF297 /* PersonalAreaVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +76,12 @@
 		7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIPageControllable.swift; sourceTree = "<group>"; };
 		7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIBasePageControl.swift; sourceTree = "<group>"; };
 		7BD0C87222538E9C00325CEB /* CHIPageControlAleppo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIPageControlAleppo.swift; sourceTree = "<group>"; };
+		7BD0C8752254928D00325CEB /* ContactsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContactsVC.swift; path = sasheramed/Utils/Indicator/SwipeIndicator/ContactsVC.swift; sourceTree = SOURCE_ROOT; };
+		7BD0C8772254954100325CEB /* ContactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
+		7BD0C87A2254BD2000325CEB /* BasketVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BasketVC.swift; path = sasheramed/Features/User/UI/Contacts/BasketVC.swift; sourceTree = SOURCE_ROOT; };
+		7BD0C87C2254C60C00325CEB /* BasketCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketCell.swift; sourceTree = "<group>"; };
+		7BD0C87F2254D97000325CEB /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SearchVC.swift; path = sasheramed/Features/Shop/UI/Basket/SearchVC.swift; sourceTree = SOURCE_ROOT; };
+		7BD0C8812254E30E00325CEB /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
 		7BDDC3C4224BC229002EF297 /* PersonalAreaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalAreaVC.swift; sourceTree = "<group>"; };
 		FF26F2F208F469F5993362A9 /* Pods_sasheramed.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sasheramed.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -247,6 +259,8 @@
 		7BA7FDB4224E4ED500F51E76 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				7BD0C87E2254D94C00325CEB /* Search */,
+				7BD0C8792254BD0100325CEB /* Basket */,
 				7B412B3C225225A4001918D4 /* Offer */,
 				7B419D59224EBE1600BC4321 /* Detail */,
 				7BA7FDAA224E11DD00F51E76 /* Main */,
@@ -316,6 +330,33 @@
 			path = Core;
 			sourceTree = "<group>";
 		};
+		7BD0C8742254923100325CEB /* Contacts */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C8752254928D00325CEB /* ContactsVC.swift */,
+				7BD0C8772254954100325CEB /* ContactCell.swift */,
+			);
+			path = Contacts;
+			sourceTree = "<group>";
+		};
+		7BD0C8792254BD0100325CEB /* Basket */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C87A2254BD2000325CEB /* BasketVC.swift */,
+				7BD0C87C2254C60C00325CEB /* BasketCell.swift */,
+			);
+			path = Basket;
+			sourceTree = "<group>";
+		};
+		7BD0C87E2254D94C00325CEB /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				7BD0C87F2254D97000325CEB /* SearchVC.swift */,
+				7BD0C8812254E30E00325CEB /* SearchCell.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
 		7BDDC3C1224BC1D6002EF297 /* User */ = {
 			isa = PBXGroup;
 			children = (
@@ -327,6 +368,7 @@
 		7BDDC3C2224BC1E2002EF297 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				7BD0C8742254923100325CEB /* Contacts */,
 				7BDDC3C3224BC1F7002EF297 /* Personal */,
 				7B1570F5224D06A10061D384 /* User.storyboard */,
 			);
@@ -482,6 +524,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BD0C87B2254BD2000325CEB /* BasketVC.swift in Sources */,
+				7BD0C87D2254C60C00325CEB /* BasketCell.swift in Sources */,
 				7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */,
 				7B1570FE224D43650061D384 /* AppStoryboard.swift in Sources */,
 				7BDDC3C5224BC229002EF297 /* PersonalAreaVC.swift in Sources */,
@@ -489,15 +533,19 @@
 				7B67752F2248EA8300C3844A /* Extensions.swift in Sources */,
 				7BA7FDAC224E11FD00F51E76 /* MainVC.swift in Sources */,
 				7BA7FDB0224E42BF00F51E76 /* ProductMiniVC.swift in Sources */,
+				7BD0C8822254E30E00325CEB /* SearchCell.swift in Sources */,
 				7B39BD68224A29E4005C41B3 /* SignInVC.swift in Sources */,
 				7B412B422252404D001918D4 /* OfferCell.swift in Sources */,
 				7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */,
 				7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */,
+				7BD0C8762254928D00325CEB /* ContactsVC.swift in Sources */,
 				7B1570F8224D15CB0061D384 /* TextFieldUnderline.swift in Sources */,
 				7B1570FA224D392A0061D384 /* BottomSpaceKeyboard.swift in Sources */,
 				7B157103224D51330061D384 /* SignUpVC.swift in Sources */,
+				7BD0C8782254954100325CEB /* ContactCell.swift in Sources */,
 				7B419D5B224EBE3500BC4321 /* DetailProductVC.swift in Sources */,
 				7BD0C87322538E9C00325CEB /* CHIPageControlAleppo.swift in Sources */,
+				7BD0C8802254D97000325CEB /* SearchVC.swift in Sources */,
 				7BA7FDB2224E492300F51E76 /* ProductMiniCell.swift in Sources */,
 				7B39BD6B224A2ABF005C41B3 /* BaseVC.swift in Sources */,
 				7B412B4022522DD5001918D4 /* GradientButton.swift in Sources */,

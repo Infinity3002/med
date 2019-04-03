@@ -35,6 +35,10 @@ class MainVC: BaseVC {
     var containerSellProducts: ProductMiniVC? = nil
     var containerBeastSellers: ProductMiniVC? = nil
     
+    @IBAction func onClickCall(_ sender: Any) {
+         self.present(ContactsVC.instantiateFromAppStoryboard(appStoryboard: .User), animated: true)
+    }
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if(segue.identifier == "sellProduct"){
             containerSellProducts = segue.destination as? ProductMiniVC
