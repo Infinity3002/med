@@ -7,14 +7,13 @@
 //
 
 import UIKit
+import SwinjectStoryboard
 
-class AuthSelectionVC: UIViewController {
+class AuthSelectionVC: BaseVC {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        print(AuthSelectionVC.storyboardID)
         
     }
     

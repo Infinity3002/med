@@ -30,7 +30,28 @@
 		7BADE4F322466329006923F1 /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F122466329006923F1 /* Auth.storyboard */; };
 		7BADE4F52246632C006923F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F42246632C006923F1 /* Assets.xcassets */; };
 		7BADE4F82246632C006923F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BADE4F62246632C006923F1 /* LaunchScreen.storyboard */; };
-		7BD0C8672253801C00325CEB /* IndicatorPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C8662253801C00325CEB /* IndicatorPage.swift */; };
+		7BC5B6A62260DFE500B896E9 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6A52260DFE500B896E9 /* Network.swift */; };
+		7BC5B6A82260E0BD00B896E9 /* AuthModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6A72260E0BD00B896E9 /* AuthModule.swift */; };
+		7BC5B6AC2260E65300B896E9 /* AppModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6AB2260E65300B896E9 /* AppModule.swift */; };
+		7BC5B6AE2260FA5000B896E9 /* AuthRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6AD2260FA5000B896E9 /* AuthRepository.swift */; };
+		7BC5B6B52260FF5B00B896E9 /* SignUpVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6B42260FF5B00B896E9 /* SignUpVM.swift */; };
+		7BC5B6B72260FFD800B896E9 /* AuthInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6B62260FFD800B896E9 /* AuthInteractor.swift */; };
+		7BC5B6B92261038A00B896E9 /* SignInVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6B82261038A00B896E9 /* SignInVM.swift */; };
+		7BC5B6BB2261045200B896E9 /* SignInForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6BA2261045200B896E9 /* SignInForm.swift */; };
+		7BC5B6BE2261057B00B896E9 /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6BD2261057B00B896E9 /* Observable.swift */; };
+		7BC5B6C12261090C00B896E9 /* IndicatorPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6C02261090C00B896E9 /* IndicatorPage.swift */; };
+		7BC5B6C32261095E00B896E9 /* Bindable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6C22261095E00B896E9 /* Bindable.swift */; };
+		7BC5B6C522610AF500B896E9 /* NSObjectObservable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6C422610AF500B896E9 /* NSObjectObservable.swift */; };
+		7BC5B6C72261246B00B896E9 /* BlockBasedSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6C62261246B00B896E9 /* BlockBasedSelector.swift */; };
+		7BC5B6C92261259D00B896E9 /* UIControlsBindable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6C82261259D00B896E9 /* UIControlsBindable.swift */; };
+		7BC5B6CC2261275100B896E9 /* BlockBasedSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6CB2261275100B896E9 /* BlockBasedSelector.m */; };
+		7BC5B6D422618C1200B896E9 /* AuthValidate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6D322618C1200B896E9 /* AuthValidate.swift */; };
+		7BC5B6D722619B7000B896E9 /* ValidationError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6D622619B7000B896E9 /* ValidationError.swift */; };
+		7BC5B6D92261DA9E00B896E9 /* Cacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6D82261DA9E00B896E9 /* Cacher.swift */; };
+		7BC5B6DB2261E3E600B896E9 /* SignInRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6DA2261E3E600B896E9 /* SignInRequest.swift */; };
+		7BC5B6DE2261E93A00B896E9 /* Requests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6DD2261E93A00B896E9 /* Requests.swift */; };
+		7BC5B6E02261EB4200B896E9 /* EmptyResponce.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6DF2261EB4200B896E9 /* EmptyResponce.swift */; };
+		7BC5B6E2226205AC00B896E9 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC5B6E1226205AC00B896E9 /* NetworkError.swift */; };
 		7BD0C86D22538D3700325CEB /* CHILayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C86C22538D3700325CEB /* CHILayer.swift */; };
 		7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */; };
 		7BD0C87122538D8F00325CEB /* CHIBasePageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */; };
@@ -71,7 +92,30 @@
 		7BADE4F42246632C006923F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BADE4F72246632C006923F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BADE4F92246632C006923F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7BD0C8662253801C00325CEB /* IndicatorPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IndicatorPage.swift; path = "../New Group/IndicatorPage.swift"; sourceTree = "<group>"; };
+		7BC5B6A52260DFE500B896E9 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		7BC5B6A72260E0BD00B896E9 /* AuthModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthModule.swift; sourceTree = "<group>"; };
+		7BC5B6AB2260E65300B896E9 /* AppModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModule.swift; sourceTree = "<group>"; };
+		7BC5B6AD2260FA5000B896E9 /* AuthRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthRepository.swift; sourceTree = "<group>"; };
+		7BC5B6B42260FF5B00B896E9 /* SignUpVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVM.swift; sourceTree = "<group>"; };
+		7BC5B6B62260FFD800B896E9 /* AuthInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthInteractor.swift; sourceTree = "<group>"; };
+		7BC5B6B82261038A00B896E9 /* SignInVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInVM.swift; sourceTree = "<group>"; };
+		7BC5B6BA2261045200B896E9 /* SignInForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInForm.swift; sourceTree = "<group>"; };
+		7BC5B6BD2261057B00B896E9 /* Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
+		7BC5B6C02261090C00B896E9 /* IndicatorPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorPage.swift; sourceTree = "<group>"; };
+		7BC5B6C22261095E00B896E9 /* Bindable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bindable.swift; sourceTree = "<group>"; };
+		7BC5B6C422610AF500B896E9 /* NSObjectObservable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObjectObservable.swift; sourceTree = "<group>"; };
+		7BC5B6C62261246B00B896E9 /* BlockBasedSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockBasedSelector.swift; sourceTree = "<group>"; };
+		7BC5B6C82261259D00B896E9 /* UIControlsBindable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIControlsBindable.swift; sourceTree = "<group>"; };
+		7BC5B6CB2261275100B896E9 /* BlockBasedSelector.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlockBasedSelector.m; sourceTree = "<group>"; };
+		7BC5B6CF22613D6E00B896E9 /* BlockBasedSelector.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; path = BlockBasedSelector.h; sourceTree = "<group>"; };
+		7BC5B6D022613FF200B896E9 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		7BC5B6D322618C1200B896E9 /* AuthValidate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthValidate.swift; sourceTree = "<group>"; };
+		7BC5B6D622619B7000B896E9 /* ValidationError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ValidationError.swift; path = sasheramed/Features/Auth/ValidationError.swift; sourceTree = SOURCE_ROOT; };
+		7BC5B6D82261DA9E00B896E9 /* Cacher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cacher.swift; sourceTree = "<group>"; };
+		7BC5B6DA2261E3E600B896E9 /* SignInRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInRequest.swift; sourceTree = "<group>"; };
+		7BC5B6DD2261E93A00B896E9 /* Requests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Requests.swift; sourceTree = "<group>"; };
+		7BC5B6DF2261EB4200B896E9 /* EmptyResponce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyResponce.swift; sourceTree = "<group>"; };
+		7BC5B6E1226205AC00B896E9 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		7BD0C86C22538D3700325CEB /* CHILayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CHILayer.swift; path = sasheramed/Utils/CHILayer.swift; sourceTree = SOURCE_ROOT; };
 		7BD0C86E22538D6700325CEB /* CHIPageControllable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIPageControllable.swift; sourceTree = "<group>"; };
 		7BD0C87022538D8F00325CEB /* CHIBasePageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHIBasePageControl.swift; sourceTree = "<group>"; };
@@ -118,6 +162,7 @@
 		7B1570FF224D44960061D384 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				7BC5B6A42260DF5200B896E9 /* Network */,
 				7B157100224D44AB0061D384 /* Navigation */,
 			);
 			path = Extensions;
@@ -135,6 +180,7 @@
 			isa = PBXGroup;
 			children = (
 				7B157102224D51330061D384 /* SignUpVC.swift */,
+				7BC5B6B42260FF5B00B896E9 /* SignUpVM.swift */,
 			);
 			path = SignUp;
 			sourceTree = "<group>";
@@ -142,6 +188,8 @@
 		7B39BD61224992B5005C41B3 /* DI */ = {
 			isa = PBXGroup;
 			children = (
+				7BC5B6DC2261E87500B896E9 /* Network */,
+				7BC5B6AB2260E65300B896E9 /* AppModule.swift */,
 			);
 			path = DI;
 			sourceTree = "<group>";
@@ -159,7 +207,12 @@
 		7B39BD632249933A005C41B3 /* Auth */ = {
 			isa = PBXGroup;
 			children = (
+				7BC5B6AF2260FD9500B896E9 /* Models */,
 				7B39BD6422499355005C41B3 /* UI */,
+				7BC5B6A72260E0BD00B896E9 /* AuthModule.swift */,
+				7BC5B6AD2260FA5000B896E9 /* AuthRepository.swift */,
+				7BC5B6B62260FFD800B896E9 /* AuthInteractor.swift */,
+				7BC5B6D322618C1200B896E9 /* AuthValidate.swift */,
 			);
 			path = Auth;
 			sourceTree = "<group>";
@@ -187,6 +240,7 @@
 			isa = PBXGroup;
 			children = (
 				7B39BD67224A29E4005C41B3 /* SignInVC.swift */,
+				7BC5B6B82261038A00B896E9 /* SignInVM.swift */,
 			);
 			path = SignIn;
 			sourceTree = "<group>";
@@ -219,6 +273,8 @@
 		7B67752D2248EA4A00C3844A /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				7BC5B6D522619B5600B896E9 /* Error */,
+				7BC5B6BC2261053E00B896E9 /* TwoWayBinding */,
 				7BD0C86922538BF300325CEB /* Indicator */,
 				7B67752E2248EA8300C3844A /* Extensions.swift */,
 				7B1570F7224D15CB0061D384 /* TextFieldUnderline.swift */,
@@ -302,11 +358,78 @@
 			path = sasheramed;
 			sourceTree = "<group>";
 		};
+		7BC5B6A42260DF5200B896E9 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		7BC5B6AF2260FD9500B896E9 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6B12260FDDE00B896E9 /* NetworkModel */,
+				7BC5B6B02260FDD400B896E9 /* FormModels */,
+			);
+			path = "Models\U0003";
+			sourceTree = "<group>";
+		};
+		7BC5B6B02260FDD400B896E9 /* FormModels */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6BA2261045200B896E9 /* SignInForm.swift */,
+			);
+			path = FormModels;
+			sourceTree = "<group>";
+		};
+		7BC5B6B12260FDDE00B896E9 /* NetworkModel */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6DA2261E3E600B896E9 /* SignInRequest.swift */,
+			);
+			path = NetworkModel;
+			sourceTree = "<group>";
+		};
+		7BC5B6BC2261053E00B896E9 /* TwoWayBinding */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6BD2261057B00B896E9 /* Observable.swift */,
+				7BC5B6C22261095E00B896E9 /* Bindable.swift */,
+				7BC5B6C422610AF500B896E9 /* NSObjectObservable.swift */,
+				7BC5B6C62261246B00B896E9 /* BlockBasedSelector.swift */,
+				7BC5B6C82261259D00B896E9 /* UIControlsBindable.swift */,
+				7BC5B6CB2261275100B896E9 /* BlockBasedSelector.m */,
+				7BC5B6CF22613D6E00B896E9 /* BlockBasedSelector.h */,
+				7BC5B6D022613FF200B896E9 /* Header.h */,
+			);
+			path = TwoWayBinding;
+			sourceTree = "<group>";
+		};
+		7BC5B6D522619B5600B896E9 /* Error */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6D622619B7000B896E9 /* ValidationError.swift */,
+				7BC5B6D82261DA9E00B896E9 /* Cacher.swift */,
+				7BC5B6E1226205AC00B896E9 /* NetworkError.swift */,
+			);
+			path = Error;
+			sourceTree = "<group>";
+		};
+		7BC5B6DC2261E87500B896E9 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				7BC5B6A52260DFE500B896E9 /* Network.swift */,
+				7BC5B6DD2261E93A00B896E9 /* Requests.swift */,
+				7BC5B6DF2261EB4200B896E9 /* EmptyResponce.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
 		7BD0C86922538BF300325CEB /* Indicator */ = {
 			isa = PBXGroup;
 			children = (
 				7BD0C86A22538C1600325CEB /* SwipeIndicator */,
-				7BD0C8662253801C00325CEB /* IndicatorPage.swift */,
+				7BC5B6C02261090C00B896E9 /* IndicatorPage.swift */,
 			);
 			path = Indicator;
 			sourceTree = "<group>";
@@ -417,7 +540,7 @@
 				TargetAttributes = {
 					7BADE4E922466329006923F1 = {
 						CreatedOnToolsVersion = 10.1;
-						LastSwiftMigration = 1020;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -524,33 +647,54 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BC5B6BE2261057B00B896E9 /* Observable.swift in Sources */,
+				7BC5B6D92261DA9E00B896E9 /* Cacher.swift in Sources */,
 				7BD0C87B2254BD2000325CEB /* BasketVC.swift in Sources */,
+				7BC5B6B92261038A00B896E9 /* SignInVM.swift in Sources */,
 				7BD0C87D2254C60C00325CEB /* BasketCell.swift in Sources */,
 				7BADE4F022466329006923F1 /* AuthSelectionVC.swift in Sources */,
 				7B1570FE224D43650061D384 /* AppStoryboard.swift in Sources */,
 				7BDDC3C5224BC229002EF297 /* PersonalAreaVC.swift in Sources */,
 				7B412B3E22522918001918D4 /* OfferVC.swift in Sources */,
+				7BC5B6C522610AF500B896E9 /* NSObjectObservable.swift in Sources */,
+				7BC5B6C72261246B00B896E9 /* BlockBasedSelector.swift in Sources */,
+				7BC5B6C92261259D00B896E9 /* UIControlsBindable.swift in Sources */,
 				7B67752F2248EA8300C3844A /* Extensions.swift in Sources */,
 				7BA7FDAC224E11FD00F51E76 /* MainVC.swift in Sources */,
 				7BA7FDB0224E42BF00F51E76 /* ProductMiniVC.swift in Sources */,
 				7BD0C8822254E30E00325CEB /* SearchCell.swift in Sources */,
 				7B39BD68224A29E4005C41B3 /* SignInVC.swift in Sources */,
 				7B412B422252404D001918D4 /* OfferCell.swift in Sources */,
+				7BC5B6BB2261045200B896E9 /* SignInForm.swift in Sources */,
+				7BC5B6E2226205AC00B896E9 /* NetworkError.swift in Sources */,
+				7BC5B6AE2260FA5000B896E9 /* AuthRepository.swift in Sources */,
+				7BC5B6CC2261275100B896E9 /* BlockBasedSelector.m in Sources */,
+				7BC5B6DE2261E93A00B896E9 /* Requests.swift in Sources */,
+				7BC5B6B52260FF5B00B896E9 /* SignUpVM.swift in Sources */,
+				7BC5B6D422618C1200B896E9 /* AuthValidate.swift in Sources */,
 				7BADE4EE22466329006923F1 /* AppDelegate.swift in Sources */,
 				7BD0C86F22538D6700325CEB /* CHIPageControllable.swift in Sources */,
+				7BC5B6DB2261E3E600B896E9 /* SignInRequest.swift in Sources */,
 				7BD0C8762254928D00325CEB /* ContactsVC.swift in Sources */,
 				7B1570F8224D15CB0061D384 /* TextFieldUnderline.swift in Sources */,
 				7B1570FA224D392A0061D384 /* BottomSpaceKeyboard.swift in Sources */,
+				7BC5B6AC2260E65300B896E9 /* AppModule.swift in Sources */,
+				7BC5B6C12261090C00B896E9 /* IndicatorPage.swift in Sources */,
 				7B157103224D51330061D384 /* SignUpVC.swift in Sources */,
 				7BD0C8782254954100325CEB /* ContactCell.swift in Sources */,
+				7BC5B6C32261095E00B896E9 /* Bindable.swift in Sources */,
 				7B419D5B224EBE3500BC4321 /* DetailProductVC.swift in Sources */,
+				7BC5B6A62260DFE500B896E9 /* Network.swift in Sources */,
 				7BD0C87322538E9C00325CEB /* CHIPageControlAleppo.swift in Sources */,
 				7BD0C8802254D97000325CEB /* SearchVC.swift in Sources */,
 				7BA7FDB2224E492300F51E76 /* ProductMiniCell.swift in Sources */,
 				7B39BD6B224A2ABF005C41B3 /* BaseVC.swift in Sources */,
 				7B412B4022522DD5001918D4 /* GradientButton.swift in Sources */,
 				7BD0C87122538D8F00325CEB /* CHIBasePageControl.swift in Sources */,
-				7BD0C8672253801C00325CEB /* IndicatorPage.swift in Sources */,
+				7BC5B6B72260FFD800B896E9 /* AuthInteractor.swift in Sources */,
+				7BC5B6E02261EB4200B896E9 /* EmptyResponce.swift in Sources */,
+				7BC5B6D722619B7000B896E9 /* ValidationError.swift in Sources */,
+				7BC5B6A82260E0BD00B896E9 /* AuthModule.swift in Sources */,
 				7BD0C86D22538D3700325CEB /* CHILayer.swift in Sources */,
 				7BA7FDB6224E4EF700F51E76 /* Product.swift in Sources */,
 			);
@@ -699,6 +843,7 @@
 			baseConfigurationReference = 08685823AB5AEB4F7434D269 /* Pods-sasheramed.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D29524FZNR;
 				INFOPLIST_FILE = sasheramed/Info.plist;
@@ -709,6 +854,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = prog.sasheramed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = /Users/MaDHoma/XcodeProject/sasheramed/sasheramed/Utils/TwoWayBinding/BlockBasedSelector.h;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -719,6 +867,7 @@
 			baseConfigurationReference = 19009B9B75F89927E690F60A /* Pods-sasheramed.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D29524FZNR;
 				INFOPLIST_FILE = sasheramed/Info.plist;
@@ -729,6 +878,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = prog.sasheramed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = /Users/MaDHoma/XcodeProject/sasheramed/sasheramed/Utils/TwoWayBinding/BlockBasedSelector.h;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};

@@ -10,13 +10,16 @@ import UIKit
 
 class SignUpVC: BaseVC {
     
+    @IBOutlet weak var tfName: UITextField!
+    @IBOutlet weak var tfPatronymic: UITextField!
+    @IBOutlet weak var tfEmail: UITextField!
+    
+    var vm: SignUpVM?
+    
     override func viewDidLoad() {
     }
     
     @IBAction func onClickReg(_ sender: Any) {
-        
-       
-        
-       self.present(PersonalAreaVC.instantiateFromAppStoryboard(appStoryboard: .User), animated: true)
+        self.present(PersonalAreaVC.instantiateFromAppStoryboard(appStoryboard: .User), animated: true)
     }
 }
