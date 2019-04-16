@@ -21,7 +21,13 @@ class SignInVC: BaseVC {
         if let viewModel = vm {
             binds()
             _ = viewModel.isAuth.asObservable().subscribe({ event in  if (event.element!) {
-                    self.present(MainVC.instantiateFromAppStoryboard(appStoryboard: .Shop), animated: true)
+                UIView.transition(with: UIApplication.shared.keyWindow!, duration: 0.25,
+                                  options: .transitionCrossDissolve, animations: {
+                                        let appDelegate = UIApplication.shared.delegate as! AppDelegate
+                                        let s =  SwinjectStoryboard.create(name: "Shop", bundle: nil, container: shopModule)
+                                    appDelegate.window!.rootViewController = s.instantiateInitialViewController()
+                                    appDelegate.window!.makeKeyAndVisible()
+                    })
                 }})
         }
     }
@@ -32,6 +38,8 @@ class SignInVC: BaseVC {
     }
     
     @IBAction func onClickEnter(_ sender: Any) {
+        tfLogin.endEditing(true)
+        tfPass.endEditing(true)
          vm?.signIn()
     }
 }

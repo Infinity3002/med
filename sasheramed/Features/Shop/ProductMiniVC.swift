@@ -11,6 +11,7 @@ import UIKit
 class ProductMiniVC: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
     
     @IBOutlet weak var collectionView: UICollectionView!
+    @IBOutlet weak var pbLoading: UIActivityIndicatorView!
     var data: [Product] = []
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
@@ -37,9 +38,12 @@ class ProductMiniVC: UIViewController, UICollectionViewDataSource, UICollectionV
         }
     }
     
-    public func setData(_ data: [Product]){
-        self.data = data
-        reloadInputViews()
+    public func setData(_ data: [Product]?){
+        self.data = data ?? []
+        if(self.data.count > 0) {
+            pbLoading.stopAnimating()
+           collectionView.reloadData()
+        }
     }
     
     

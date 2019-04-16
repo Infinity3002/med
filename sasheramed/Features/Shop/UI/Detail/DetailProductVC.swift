@@ -20,24 +20,23 @@ class DetailProductVC: UIViewController {
     
     var containerRelatedProducts: ProductMiniVC? = nil
     
-    var sellProducts = [
-        Product.init(name: "Test", price: 400, description: "test test test test test test test test test test test ", weight: 100, count: 3),
-        Product.init(name: "Асперин", price: 1000, description: "test test test test test test test test test test test ", weight: 50, count: 15),
-        Product.init(name: "Test Test Test Test Test Test Test Test Test Test", price: 500, description: "test test test test test test test test test test test ", weight: 100, count: 3),
-        Product.init(name: "Test", price: 9000, description: "test test test test test test test test test test test ", weight: 100, count: 1),
-        Product.init(name: "Test", price: 100, description: "test test test test test test test test test test test ", weight: 100, count: 5),
-        Product.init(name: "Test", price: 400, description: "test test test test test test test test test test test ", weight: 100, count: 8),
-        Product.init(name: "Test", price: 5000, description: "test test test test test test test test test test test ", weight: 100, count: 24),
-        Product.init(name: "Test", price: 40, description: "test test test test test test test test test test test ", weight: 100, count: 14)
-    ]
+    var vm: DetailProductVM?
     
     override func viewDidLoad() {
         if let item = mItem {
-            
+            vm?.getRelatedProduct(item.id)
             mTitle.text = item.name
-            mPrice.text = String(item.price) + " p."
-            lDescription.text = item.description
-            lWeight.text = String(item.weight) + " г."
+            mPrice.text = (item.price?.price ?? "0") + " p."
+            lDescription.setAttributedHtmlText(item.description ?? "")
+            lWeight.text = (item.price?.weight ?? "0") + " г."
+            if(item.image != nil){
+                mPreview.downloaded(from: Requests.SERVER + item.image!)
+            }
+        }
+        if let viewModel = vm {
+            _ = viewModel.relatedProduct.asObservable().subscribe({ event in  if ((event.element) != nil) {
+                    self.containerRelatedProducts?.setData(viewModel.relatedProduct.value)
+                }})
         }
     }
     @IBAction func onBack(_ sender: Any) {
@@ -48,7 +47,6 @@ class DetailProductVC: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if(segue.identifier == "showRelatedProduct"){
             containerRelatedProducts = segue.destination as? ProductMiniVC
-            containerRelatedProducts?.setData(sellProducts)
         }
     }
     

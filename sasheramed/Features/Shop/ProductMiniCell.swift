@@ -16,6 +16,9 @@ class ProductMiniCell: UICollectionViewCell{
     
     func setProduct(_ product: Product){
         self.name.text = product.name
-        self.price.text = String(product.price) + " p."
+        self.price.text = (product.price?.price ?? "0") + " p."
+        if(product.image != nil) {
+            self.image.downloaded(from: Requests.SERVER + product.image!)
+        }
     }
 }

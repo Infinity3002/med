@@ -9,4 +9,8 @@ public struct SignInForm{
     
     let login: Observable<String> = Observable()
     let pass: Observable<String> = Observable()
+    
+    init() {
+    }
+
 }

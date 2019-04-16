@@ -22,6 +22,8 @@ open class CHIPageControlAleppo: CHIBasePageControl {
         super.init(coder: aDecoder)
     }
     
+    let screenSize: CGRect = UIScreen.main.bounds
+    
     public override init(frame: CGRect) {
         super.init(frame: frame)
     }
@@ -60,9 +62,15 @@ open class CHIPageControlAleppo: CHIBasePageControl {
     
     override open func layoutSubviews() {
         super.layoutSubviews()
-        
         let floatCount = CGFloat(inactive.count)
-        let x = (self.bounds.size.width - self.diameter*floatCount - self.padding*(floatCount-1))*0.5
+        var x = (self.bounds.size.width - self.diameter*floatCount - self.padding*(floatCount-1))*0.5
+        if(x < 0 && Int(progress) < inactive.count / 2){
+            x = self.padding
+        } else if(Int(progress)  == inactive.count / 2){
+            let distance = abs(round(progress) - progress)
+            let mult = 1 + distance * 2
+            x = x * CGFloat(mult)
+        }
         let y = (self.bounds.size.height - self.diameter)*0.5
         var frame = CGRect(x: x, y: y, width: self.diameter, height: self.diameter)
         
@@ -84,11 +92,10 @@ open class CHIPageControlAleppo: CHIBasePageControl {
     }
     
     override open var intrinsicContentSize: CGSize {
-        return sizeThatFits(CGSize.zero)
+        return sizeThatFits(CGSize(width: self.bounds.size.width, height: 20))
     }
     
     override open func sizeThatFits(_ size: CGSize) -> CGSize {
-        return CGSize(width: CGFloat(inactive.count) * self.diameter + CGFloat(inactive.count - 1) * self.padding,
-                      height: self.diameter)
+        return size
     }
 }

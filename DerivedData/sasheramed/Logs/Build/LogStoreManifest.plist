@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>048D527C-CD01-400D-8F45-669813DE371F</key>
+		<key>045D517E-C12E-4799-8F1B-B7E37680FDB6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>048D527C-CD01-400D-8F45-669813DE371F.xcactivitylog</string>
+			<string>045D517E-C12E-4799-8F1B-B7E37680FDB6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576776335.90134299</real>
+			<real>577117096.31921303</real>
 			<key>timeStoppedRecording</key>
-			<real>576776408.44871294</real>
+			<real>577117116.20818901</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>048D527C-CD01-400D-8F45-669813DE371F</string>
+			<string>045D517E-C12E-4799-8F1B-B7E37680FDB6</string>
 		</dict>
-		<key>073D1694-B8D8-4591-9BC2-EF473E382028</key>
+		<key>077787D0-512F-4E08-AD8A-FD9D2A1F9B56</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>073D1694-B8D8-4591-9BC2-EF473E382028.xcactivitylog</string>
+			<string>077787D0-512F-4E08-AD8A-FD9D2A1F9B56.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,15 +56,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576844977.29730797</real>
+			<real>577109745.78923297</real>
 			<key>timeStoppedRecording</key>
-			<real>576844984.301193</real>
+			<real>577109745.97541499</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>073D1694-B8D8-4591-9BC2-EF473E382028</string>
+			<string>077787D0-512F-4E08-AD8A-FD9D2A1F9B56</string>
 		</dict>
-		<key>08F3158B-BB4F-45C9-845C-88126BC05A70</key>
+		<key>08C4E4AF-2D90-421B-80FD-BF6A88FD0767</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -73,7 +73,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>08F3158B-BB4F-45C9-845C-88126BC05A70.xcactivitylog</string>
+			<string>08C4E4AF-2D90-421B-80FD-BF6A88FD0767.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -85,15 +85,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576817684.288203</real>
+			<real>577117285.82880402</real>
 			<key>timeStoppedRecording</key>
-			<real>576817693.56130195</real>
+			<real>577117340.14919603</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>08F3158B-BB4F-45C9-845C-88126BC05A70</string>
+			<string>08C4E4AF-2D90-421B-80FD-BF6A88FD0767</string>
 		</dict>
-		<key>091B6B98-8DBB-46EC-8832-478EE182937F</key>
+		<key>0D0081FF-EB07-4E5D-9E45-A57D4EF45ED1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -102,7 +102,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>091B6B98-8DBB-46EC-8832-478EE182937F.xcactivitylog</string>
+			<string>0D0081FF-EB07-4E5D-9E45-A57D4EF45ED1.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -114,15 +114,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576845389.11035097</real>
+			<real>577113271.42339098</real>
 			<key>timeStoppedRecording</key>
-			<real>576845394.64984095</real>
+			<real>577113280.57585895</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>091B6B98-8DBB-46EC-8832-478EE182937F</string>
+			<string>0D0081FF-EB07-4E5D-9E45-A57D4EF45ED1</string>
 		</dict>
-		<key>0ACD24F7-B1F8-4AB6-A9F7-0AEC90376469</key>
+		<key>0E4804C4-79A5-4F2E-8DE0-AC55D959F58B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -131,7 +131,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0ACD24F7-B1F8-4AB6-A9F7-0AEC90376469.xcactivitylog</string>
+			<string>0E4804C4-79A5-4F2E-8DE0-AC55D959F58B.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -143,15 +143,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576845279.50504005</real>
+			<real>577124510.66357195</real>
 			<key>timeStoppedRecording</key>
-			<real>576845292.39936304</real>
+			<real>577124526.43256998</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>0ACD24F7-B1F8-4AB6-A9F7-0AEC90376469</string>
+			<string>0E4804C4-79A5-4F2E-8DE0-AC55D959F58B</string>
 		</dict>
-		<key>0C8FC3B8-00D9-4AF7-BAC1-3CA4D3A3899B</key>
+		<key>1F6AFDD3-EDA5-46FB-8E1F-786902924C93</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -160,181 +160,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0C8FC3B8-00D9-4AF7-BAC1-3CA4D3A3899B.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576777108.81902802</real>
-			<key>timeStoppedRecording</key>
-			<real>576777127.44139194</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>0C8FC3B8-00D9-4AF7-BAC1-3CA4D3A3899B</string>
-		</dict>
-		<key>0CFC60F0-0986-4475-9F52-7D985431E236</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0CFC60F0-0986-4475-9F52-7D985431E236.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576848719.15353298</real>
-			<key>timeStoppedRecording</key>
-			<real>576848719.54335594</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>0CFC60F0-0986-4475-9F52-7D985431E236</string>
-		</dict>
-		<key>0DBFB37C-AA40-4DF2-9A7E-14B6DCD4DCBC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0DBFB37C-AA40-4DF2-9A7E-14B6DCD4DCBC.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576822334.31684303</real>
-			<key>timeStoppedRecording</key>
-			<real>576822350.56312704</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>0DBFB37C-AA40-4DF2-9A7E-14B6DCD4DCBC</string>
-		</dict>
-		<key>14225B3A-41CB-4CC0-BCFA-22A5F0ACFA9A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>14225B3A-41CB-4CC0-BCFA-22A5F0ACFA9A.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>575989842.96871102</real>
-			<key>timeStoppedRecording</key>
-			<real>575989888.56842303</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>14225B3A-41CB-4CC0-BCFA-22A5F0ACFA9A</string>
-		</dict>
-		<key>1815E8C0-4A86-438E-BF98-DB30C1F62DBF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1815E8C0-4A86-438E-BF98-DB30C1F62DBF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576804077.02862298</real>
-			<key>timeStoppedRecording</key>
-			<real>576804077.18297696</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>1815E8C0-4A86-438E-BF98-DB30C1F62DBF</string>
-		</dict>
-		<key>18C4D56C-CD47-4C8A-AE61-51B4755ECEF5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>18C4D56C-CD47-4C8A-AE61-51B4755ECEF5.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576776580.16261804</real>
-			<key>timeStoppedRecording</key>
-			<real>576776580.40258098</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>18C4D56C-CD47-4C8A-AE61-51B4755ECEF5</string>
-		</dict>
-		<key>1BAD1F85-E686-4849-9218-4339F3745F0B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1BAD1F85-E686-4849-9218-4339F3745F0B.xcactivitylog</string>
+			<string>1F6AFDD3-EDA5-46FB-8E1F-786902924C93.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -346,15 +172,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576842819.98259103</real>
+			<real>577123884.91505206</real>
 			<key>timeStoppedRecording</key>
-			<real>576842822.26577902</real>
+			<real>577123890.02498603</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>1BAD1F85-E686-4849-9218-4339F3745F0B</string>
+			<string>1F6AFDD3-EDA5-46FB-8E1F-786902924C93</string>
 		</dict>
-		<key>225B6791-FF30-48EA-8A08-4BA41DB1D2B2</key>
+		<key>22CCF279-6D86-4C7C-94AE-430F68E6C596</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -363,36 +189,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>225B6791-FF30-48EA-8A08-4BA41DB1D2B2.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576853191.579108</real>
-			<key>timeStoppedRecording</key>
-			<real>576853223.24842405</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>225B6791-FF30-48EA-8A08-4BA41DB1D2B2</string>
-		</dict>
-		<key>234D7C3A-C5D4-40F1-88EE-79F7E4AB8801</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>234D7C3A-C5D4-40F1-88EE-79F7E4AB8801.xcactivitylog</string>
+			<string>22CCF279-6D86-4C7C-94AE-430F68E6C596.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -404,15 +201,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576819281.25077701</real>
+			<real>577114414.28976798</real>
 			<key>timeStoppedRecording</key>
-			<real>576819282.00684905</real>
+			<real>577114422.64289105</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>234D7C3A-C5D4-40F1-88EE-79F7E4AB8801</string>
+			<string>22CCF279-6D86-4C7C-94AE-430F68E6C596</string>
 		</dict>
-		<key>2510C664-1CB5-4D3A-B37A-984EF8A8FFA8</key>
+		<key>24FF4813-B560-42CA-9A07-40A815BC9854</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -421,94 +218,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2510C664-1CB5-4D3A-B37A-984EF8A8FFA8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576792004.80080104</real>
-			<key>timeStoppedRecording</key>
-			<real>576792014.28288996</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>2510C664-1CB5-4D3A-B37A-984EF8A8FFA8</string>
-		</dict>
-		<key>27721D06-4B00-4FBB-8819-7BC3966F9BA9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>27721D06-4B00-4FBB-8819-7BC3966F9BA9.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576842480.41892195</real>
-			<key>timeStoppedRecording</key>
-			<real>576842481.30142903</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>27721D06-4B00-4FBB-8819-7BC3966F9BA9</string>
-		</dict>
-		<key>2780698F-5F00-40A7-BA49-D949EB591A12</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2780698F-5F00-40A7-BA49-D949EB591A12.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576822717.77285397</real>
-			<key>timeStoppedRecording</key>
-			<real>576822813.81129098</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>2780698F-5F00-40A7-BA49-D949EB591A12</string>
-		</dict>
-		<key>281D643D-6299-4ED7-9759-4D1203333506</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>281D643D-6299-4ED7-9759-4D1203333506.xcactivitylog</string>
+			<string>24FF4813-B560-42CA-9A07-40A815BC9854.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -520,15 +230,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576844265.27179897</real>
+			<real>577116482.24432397</real>
 			<key>timeStoppedRecording</key>
-			<real>576844279.54398</real>
+			<real>577116504.13919401</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>281D643D-6299-4ED7-9759-4D1203333506</string>
+			<string>24FF4813-B560-42CA-9A07-40A815BC9854</string>
 		</dict>
-		<key>2B2EE66B-351A-48FB-B221-59E45B43ABBB</key>
+		<key>27C70EDA-F3E5-4579-BEBC-9AD170FB8F9A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -537,7 +247,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2B2EE66B-351A-48FB-B221-59E45B43ABBB.xcactivitylog</string>
+			<string>27C70EDA-F3E5-4579-BEBC-9AD170FB8F9A.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -549,15 +259,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576841604.860816</real>
+			<real>577124198.874475</real>
 			<key>timeStoppedRecording</key>
-			<real>576841617.57752597</real>
+			<real>577124218.18663895</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>2B2EE66B-351A-48FB-B221-59E45B43ABBB</string>
+			<string>27C70EDA-F3E5-4579-BEBC-9AD170FB8F9A</string>
 		</dict>
-		<key>2C3E1AC3-432B-4090-9DD2-DF8E9BFE77E5</key>
+		<key>3BEB8881-67EB-41A3-9A37-E4C9161EBC3E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -566,7 +276,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2C3E1AC3-432B-4090-9DD2-DF8E9BFE77E5.xcactivitylog</string>
+			<string>3BEB8881-67EB-41A3-9A37-E4C9161EBC3E.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -578,15 +288,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576851848.84785295</real>
+			<real>577122398.09684503</real>
 			<key>timeStoppedRecording</key>
-			<real>576851858.07980394</real>
+			<real>577122450.77367795</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>2C3E1AC3-432B-4090-9DD2-DF8E9BFE77E5</string>
+			<string>3BEB8881-67EB-41A3-9A37-E4C9161EBC3E</string>
 		</dict>
-		<key>2E2F8784-6B42-420A-9F06-55245B752597</key>
+		<key>3E073A1B-B781-4788-AC6C-773B47061BF6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -595,7 +305,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2E2F8784-6B42-420A-9F06-55245B752597.xcactivitylog</string>
+			<string>3E073A1B-B781-4788-AC6C-773B47061BF6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -607,15 +317,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576776464.73257995</real>
+			<real>577116788.62065995</real>
 			<key>timeStoppedRecording</key>
-			<real>576776466.86069798</real>
+			<real>577116790.25541699</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>2E2F8784-6B42-420A-9F06-55245B752597</string>
+			<string>3E073A1B-B781-4788-AC6C-773B47061BF6</string>
 		</dict>
-		<key>335FC612-E71F-417C-8635-4EB8B36C7BB1</key>
+		<key>531946BF-0683-4104-A819-6134226E0EF9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -624,65 +334,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>335FC612-E71F-417C-8635-4EB8B36C7BB1.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576792450.19486403</real>
-			<key>timeStoppedRecording</key>
-			<real>576792458.48775303</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>335FC612-E71F-417C-8635-4EB8B36C7BB1</string>
-		</dict>
-		<key>339CE2F6-DAF3-48D2-A4BB-E41DF8EEFF55</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>339CE2F6-DAF3-48D2-A4BB-E41DF8EEFF55.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576793054.56754005</real>
-			<key>timeStoppedRecording</key>
-			<real>576793057.05122602</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>339CE2F6-DAF3-48D2-A4BB-E41DF8EEFF55</string>
-		</dict>
-		<key>38DB4707-8C1E-491A-8098-4C79C520E9C7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>38DB4707-8C1E-491A-8098-4C79C520E9C7.xcactivitylog</string>
+			<string>531946BF-0683-4104-A819-6134226E0EF9.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -694,15 +346,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576844743.17904794</real>
+			<real>577115003.28033698</real>
 			<key>timeStoppedRecording</key>
-			<real>576844757.10936606</real>
+			<real>577115012.76578403</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>38DB4707-8C1E-491A-8098-4C79C520E9C7</string>
+			<string>531946BF-0683-4104-A819-6134226E0EF9</string>
 		</dict>
-		<key>39E9DB6D-517E-422E-A90D-115AF58930FB</key>
+		<key>56A8D35C-4122-452A-9AFA-BC6AAD1A597C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -711,36 +363,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>39E9DB6D-517E-422E-A90D-115AF58930FB.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576817634.40287697</real>
-			<key>timeStoppedRecording</key>
-			<real>576817636.51847994</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>39E9DB6D-517E-422E-A90D-115AF58930FB</string>
-		</dict>
-		<key>3A8274C3-A667-430C-8869-36D7BE32640A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3A8274C3-A667-430C-8869-36D7BE32640A.xcactivitylog</string>
+			<string>56A8D35C-4122-452A-9AFA-BC6AAD1A597C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -752,15 +375,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576838195.21812403</real>
+			<real>577107390.145172</real>
 			<key>timeStoppedRecording</key>
-			<real>576838244.06774402</real>
+			<real>577107438.62416804</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>3A8274C3-A667-430C-8869-36D7BE32640A</string>
+			<string>56A8D35C-4122-452A-9AFA-BC6AAD1A597C</string>
 		</dict>
-		<key>3E0A9E99-E0EA-4310-AD3F-C45E28086D78</key>
+		<key>659A6377-06AF-4894-9651-3E46379BAB6C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -769,7 +392,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3E0A9E99-E0EA-4310-AD3F-C45E28086D78.xcactivitylog</string>
+			<string>659A6377-06AF-4894-9651-3E46379BAB6C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -781,15 +404,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576798766.00557995</real>
+			<real>577113020.79490495</real>
 			<key>timeStoppedRecording</key>
-			<real>576798852.43730104</real>
+			<real>577113033.90364897</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>3E0A9E99-E0EA-4310-AD3F-C45E28086D78</string>
+			<string>659A6377-06AF-4894-9651-3E46379BAB6C</string>
 		</dict>
-		<key>41BF93DC-3B66-481A-BF45-67EBEAF69630</key>
+		<key>6771E169-E0D9-4998-8422-D150F518EFD7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -798,36 +421,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>41BF93DC-3B66-481A-BF45-67EBEAF69630.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576817962.21115994</real>
-			<key>timeStoppedRecording</key>
-			<real>576817964.954054</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>41BF93DC-3B66-481A-BF45-67EBEAF69630</string>
-		</dict>
-		<key>445FFCCD-C448-40A7-953E-73AC590E98C1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>445FFCCD-C448-40A7-953E-73AC590E98C1.xcactivitylog</string>
+			<string>6771E169-E0D9-4998-8422-D150F518EFD7.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -839,15 +433,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576798878.68133104</real>
+			<real>577120438.68331802</real>
 			<key>timeStoppedRecording</key>
-			<real>576798881.394225</real>
+			<real>577120477.54486001</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>445FFCCD-C448-40A7-953E-73AC590E98C1</string>
+			<string>6771E169-E0D9-4998-8422-D150F518EFD7</string>
 		</dict>
-		<key>44D12F5B-1B4F-4692-BBE6-7BFD35FC12CA</key>
+		<key>6AD822B3-5AF9-46F5-B6A7-5E36BF0706F6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -856,7 +450,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>44D12F5B-1B4F-4692-BBE6-7BFD35FC12CA.xcactivitylog</string>
+			<string>6AD822B3-5AF9-46F5-B6A7-5E36BF0706F6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -868,15 +462,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576778514.32028401</real>
+			<real>577111779.73381102</real>
 			<key>timeStoppedRecording</key>
-			<real>576778534.23915303</real>
+			<real>577111783.29591596</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>44D12F5B-1B4F-4692-BBE6-7BFD35FC12CA</string>
+			<string>6AD822B3-5AF9-46F5-B6A7-5E36BF0706F6</string>
 		</dict>
-		<key>50922A2E-6DCA-4639-B3E9-BBE1E33CA278</key>
+		<key>6DB319C7-FC0B-4BAF-A2FC-3A6608980A51</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -885,94 +479,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>50922A2E-6DCA-4639-B3E9-BBE1E33CA278.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576840055.22452497</real>
-			<key>timeStoppedRecording</key>
-			<real>576840058.92404199</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>50922A2E-6DCA-4639-B3E9-BBE1E33CA278</string>
-		</dict>
-		<key>531C8D9E-8FDD-4BDE-9A28-DDD88A26EBE0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>531C8D9E-8FDD-4BDE-9A28-DDD88A26EBE0.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576819179.52568495</real>
-			<key>timeStoppedRecording</key>
-			<real>576819181.61230695</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>531C8D9E-8FDD-4BDE-9A28-DDD88A26EBE0</string>
-		</dict>
-		<key>54C0C853-2759-4417-87A7-62AC6850E7D1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>54C0C853-2759-4417-87A7-62AC6850E7D1.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576819495.09215403</real>
-			<key>timeStoppedRecording</key>
-			<real>576819495.81304002</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>54C0C853-2759-4417-87A7-62AC6850E7D1</string>
-		</dict>
-		<key>573D80B6-C78D-4498-B718-B46CE691DEB5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>573D80B6-C78D-4498-B718-B46CE691DEB5.xcactivitylog</string>
+			<string>6DB319C7-FC0B-4BAF-A2FC-3A6608980A51.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -984,15 +491,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576817935.38055599</real>
+			<real>577116688.31561804</real>
 			<key>timeStoppedRecording</key>
-			<real>576817942.20514905</real>
+			<real>577116688.451877</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>573D80B6-C78D-4498-B718-B46CE691DEB5</string>
+			<string>6DB319C7-FC0B-4BAF-A2FC-3A6608980A51</string>
 		</dict>
-		<key>5D6519AD-B458-4C0B-8504-765F15267580</key>
+		<key>6F97C7F5-E1F8-4A85-A3BD-046F66C03690</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1001,36 +508,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5D6519AD-B458-4C0B-8504-765F15267580.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576803913.52152896</real>
-			<key>timeStoppedRecording</key>
-			<real>576803918.20435703</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>5D6519AD-B458-4C0B-8504-765F15267580</string>
-		</dict>
-		<key>609543BE-A884-4041-A557-9B6A9423CDD5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>609543BE-A884-4041-A557-9B6A9423CDD5.xcactivitylog</string>
+			<string>6F97C7F5-E1F8-4A85-A3BD-046F66C03690.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1042,15 +520,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576804016.98950899</real>
+			<real>577120656.19076502</real>
 			<key>timeStoppedRecording</key>
-			<real>576804017.14662194</real>
+			<real>577120670.63986695</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>609543BE-A884-4041-A557-9B6A9423CDD5</string>
+			<string>6F97C7F5-E1F8-4A85-A3BD-046F66C03690</string>
 		</dict>
-		<key>61226080-CA62-42DD-B291-B9E71D2EFA28</key>
+		<key>753E6C36-1BB4-4B54-87BB-2AE230D28357</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1059,7 +537,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>61226080-CA62-42DD-B291-B9E71D2EFA28.xcactivitylog</string>
+			<string>753E6C36-1BB4-4B54-87BB-2AE230D28357.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1071,15 +549,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576851506.63967299</real>
+			<real>577124584.36273003</real>
 			<key>timeStoppedRecording</key>
-			<real>576851522.34920001</real>
+			<real>577124599.45733798</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>61226080-CA62-42DD-B291-B9E71D2EFA28</string>
+			<string>753E6C36-1BB4-4B54-87BB-2AE230D28357</string>
 		</dict>
-		<key>63BD2913-4959-4A90-9303-998449F180A8</key>
+		<key>7FE7A2A4-D5E0-4226-856B-4078FEA50E2A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1088,36 +566,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>63BD2913-4959-4A90-9303-998449F180A8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Convert sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576773625.00892699</real>
-			<key>timeStoppedRecording</key>
-			<real>576773860.93461204</real>
-			<key>title</key>
-			<string>Convert sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>63BD2913-4959-4A90-9303-998449F180A8</string>
-		</dict>
-		<key>646ED5BA-9159-4F35-9AEC-9346C1939DF1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>646ED5BA-9159-4F35-9AEC-9346C1939DF1.xcactivitylog</string>
+			<string>7FE7A2A4-D5E0-4226-856B-4078FEA50E2A.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1129,15 +578,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576804297.89929903</real>
+			<real>577124328.58451402</real>
 			<key>timeStoppedRecording</key>
-			<real>576804300.52279305</real>
+			<real>577124328.93034101</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>646ED5BA-9159-4F35-9AEC-9346C1939DF1</string>
+			<string>7FE7A2A4-D5E0-4226-856B-4078FEA50E2A</string>
 		</dict>
-		<key>64740098-F635-4C16-A5C6-BB9C20E6DA3C</key>
+		<key>7FEC10DF-8CD4-4064-9180-DE219E7305B3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1146,36 +595,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>64740098-F635-4C16-A5C6-BB9C20E6DA3C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576843307.53278506</real>
-			<key>timeStoppedRecording</key>
-			<real>576843309.80586195</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>64740098-F635-4C16-A5C6-BB9C20E6DA3C</string>
-		</dict>
-		<key>66C169C4-302D-49BE-9022-739CF741D531</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>66C169C4-302D-49BE-9022-739CF741D531.xcactivitylog</string>
+			<string>7FEC10DF-8CD4-4064-9180-DE219E7305B3.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1187,15 +607,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576798961.354949</real>
+			<real>577121352.89595795</real>
 			<key>timeStoppedRecording</key>
-			<real>576798962.13332903</real>
+			<real>577121366.268857</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>66C169C4-302D-49BE-9022-739CF741D531</string>
+			<string>7FEC10DF-8CD4-4064-9180-DE219E7305B3</string>
 		</dict>
-		<key>67EBF5BF-03BA-4FA8-BAFC-E2CD161DCFC7</key>
+		<key>8C6B7CB4-6796-45B6-93DB-7CCB8C59EF57</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1204,7 +624,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>67EBF5BF-03BA-4FA8-BAFC-E2CD161DCFC7.xcactivitylog</string>
+			<string>8C6B7CB4-6796-45B6-93DB-7CCB8C59EF57.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1216,15 +636,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576776416.92626798</real>
+			<real>577110738.24133003</real>
 			<key>timeStoppedRecording</key>
-			<real>576776417.52758503</real>
+			<real>577110747.84672797</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>67EBF5BF-03BA-4FA8-BAFC-E2CD161DCFC7</string>
+			<string>8C6B7CB4-6796-45B6-93DB-7CCB8C59EF57</string>
 		</dict>
-		<key>6934BDD6-8C4E-4F8A-8878-0464E098195B</key>
+		<key>9A2933E3-7E6F-4D70-BFBA-7E659400A221</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1233,36 +653,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6934BDD6-8C4E-4F8A-8878-0464E098195B.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576803021.64196801</real>
-			<key>timeStoppedRecording</key>
-			<real>576803024.74000096</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>6934BDD6-8C4E-4F8A-8878-0464E098195B</string>
-		</dict>
-		<key>6D76DCCA-9E8A-4685-AB68-CF20E67664D9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6D76DCCA-9E8A-4685-AB68-CF20E67664D9.xcactivitylog</string>
+			<string>9A2933E3-7E6F-4D70-BFBA-7E659400A221.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1274,15 +665,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576803985.34278297</real>
+			<real>577119011.42081797</real>
 			<key>timeStoppedRecording</key>
-			<real>576803997.87028897</real>
+			<real>577119011.69720495</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>6D76DCCA-9E8A-4685-AB68-CF20E67664D9</string>
+			<string>9A2933E3-7E6F-4D70-BFBA-7E659400A221</string>
 		</dict>
-		<key>6FA0887B-7206-4B84-9F0C-C712A2422F65</key>
+		<key>9CC2E9E2-E7B9-4955-A7E0-FC0F03AA5628</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1291,7 +682,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6FA0887B-7206-4B84-9F0C-C712A2422F65.xcactivitylog</string>
+			<string>9CC2E9E2-E7B9-4955-A7E0-FC0F03AA5628.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1303,15 +694,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576817987.72735</real>
+			<real>577118253.15306795</real>
 			<key>timeStoppedRecording</key>
-			<real>576817994.69905102</real>
+			<real>577118271.36530805</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>6FA0887B-7206-4B84-9F0C-C712A2422F65</string>
+			<string>9CC2E9E2-E7B9-4955-A7E0-FC0F03AA5628</string>
 		</dict>
-		<key>745B9B85-487A-47A4-86E7-9FF462BF89FD</key>
+		<key>A1B521A0-14B4-404C-B226-3307555026C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1320,181 +711,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>745B9B85-487A-47A4-86E7-9FF462BF89FD.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576844199.06613398</real>
-			<key>timeStoppedRecording</key>
-			<real>576844199.97871304</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>745B9B85-487A-47A4-86E7-9FF462BF89FD</string>
-		</dict>
-		<key>7491D0FC-E77F-4A25-94FF-AEBF5A9EDEFE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7491D0FC-E77F-4A25-94FF-AEBF5A9EDEFE.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576842654.044631</real>
-			<key>timeStoppedRecording</key>
-			<real>576842655.16789401</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>7491D0FC-E77F-4A25-94FF-AEBF5A9EDEFE</string>
-		</dict>
-		<key>77D14D03-590E-4455-980A-54D6959B06C4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>77D14D03-590E-4455-980A-54D6959B06C4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576838173.730533</real>
-			<key>timeStoppedRecording</key>
-			<real>576838191.52959299</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>77D14D03-590E-4455-980A-54D6959B06C4</string>
-		</dict>
-		<key>7930C651-8B6E-4861-94DE-92F71F941BEE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7930C651-8B6E-4861-94DE-92F71F941BEE.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576819234.56554401</real>
-			<key>timeStoppedRecording</key>
-			<real>576819236.08738506</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>7930C651-8B6E-4861-94DE-92F71F941BEE</string>
-		</dict>
-		<key>7CBD4D91-BDBE-44CE-8E9B-52131953F954</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7CBD4D91-BDBE-44CE-8E9B-52131953F954.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576794073.94558299</real>
-			<key>timeStoppedRecording</key>
-			<real>576794077.26446199</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>7CBD4D91-BDBE-44CE-8E9B-52131953F954</string>
-		</dict>
-		<key>7DBD772C-D2C7-4992-872F-2378E2218475</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7DBD772C-D2C7-4992-872F-2378E2218475.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576840048.92058003</real>
-			<key>timeStoppedRecording</key>
-			<real>576840050.71775806</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>7DBD772C-D2C7-4992-872F-2378E2218475</string>
-		</dict>
-		<key>85F3370C-17B2-4C8A-9F76-06ADD992F11A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>85F3370C-17B2-4C8A-9F76-06ADD992F11A.xcactivitylog</string>
+			<string>A1B521A0-14B4-404C-B226-3307555026C0.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1506,15 +723,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576800761.22007501</real>
+			<real>577124380.13253999</real>
 			<key>timeStoppedRecording</key>
-			<real>576800866.73692298</real>
+			<real>577124409.98460102</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>85F3370C-17B2-4C8A-9F76-06ADD992F11A</string>
+			<string>A1B521A0-14B4-404C-B226-3307555026C0</string>
 		</dict>
-		<key>89F35739-6AE9-45DD-A818-8782092C57FF</key>
+		<key>A6634970-A477-4943-9CA2-E446A438D8B9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1523,36 +740,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>89F35739-6AE9-45DD-A818-8782092C57FF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576853162.26022601</real>
-			<key>timeStoppedRecording</key>
-			<real>576853166.122733</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>89F35739-6AE9-45DD-A818-8782092C57FF</string>
-		</dict>
-		<key>8A40B114-77F6-4C45-BE1D-FF07B7A3CD3F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8A40B114-77F6-4C45-BE1D-FF07B7A3CD3F.xcactivitylog</string>
+			<string>A6634970-A477-4943-9CA2-E446A438D8B9.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1564,15 +752,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576845046.34260595</real>
+			<real>577124147.46366894</real>
 			<key>timeStoppedRecording</key>
-			<real>576845055.719625</real>
+			<real>577124160.449489</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>8A40B114-77F6-4C45-BE1D-FF07B7A3CD3F</string>
+			<string>A6634970-A477-4943-9CA2-E446A438D8B9</string>
 		</dict>
-		<key>8C5F489D-C206-47E3-B031-88F30FC3286B</key>
+		<key>A6C144B7-27E2-48B9-A0A7-9CF7CC4E07C5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1581,36 +769,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8C5F489D-C206-47E3-B031-88F30FC3286B.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576804133.14893401</real>
-			<key>timeStoppedRecording</key>
-			<real>576804133.798437</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>8C5F489D-C206-47E3-B031-88F30FC3286B</string>
-		</dict>
-		<key>9152A54B-9D8B-4197-9242-2F124A6937F6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9152A54B-9D8B-4197-9242-2F124A6937F6.xcactivitylog</string>
+			<string>A6C144B7-27E2-48B9-A0A7-9CF7CC4E07C5.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1622,15 +781,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576770041.98896301</real>
+			<real>577113165.63665295</real>
 			<key>timeStoppedRecording</key>
-			<real>576770299.400684</real>
+			<real>577113178.14290297</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>9152A54B-9D8B-4197-9242-2F124A6937F6</string>
+			<string>A6C144B7-27E2-48B9-A0A7-9CF7CC4E07C5</string>
 		</dict>
-		<key>92A5BC8A-6E25-4D9F-8172-3FC3BB1DCDDE</key>
+		<key>A9ACBB21-701A-4204-B4CC-8CC4EB496153</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1639,7 +798,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>92A5BC8A-6E25-4D9F-8172-3FC3BB1DCDDE.xcactivitylog</string>
+			<string>A9ACBB21-701A-4204-B4CC-8CC4EB496153.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1651,15 +810,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576817765.67779303</real>
+			<real>577121178.09711099</real>
 			<key>timeStoppedRecording</key>
-			<real>576817781.86753905</real>
+			<real>577121190.81958497</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>92A5BC8A-6E25-4D9F-8172-3FC3BB1DCDDE</string>
+			<string>A9ACBB21-701A-4204-B4CC-8CC4EB496153</string>
 		</dict>
-		<key>933894B9-5C33-4A4F-BBE9-86B9F829B410</key>
+		<key>AAFB3CBE-5527-4A5E-B622-A3F47F990769</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1668,94 +827,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>933894B9-5C33-4A4F-BBE9-86B9F829B410.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576798106.97678602</real>
-			<key>timeStoppedRecording</key>
-			<real>576798113.11167502</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>933894B9-5C33-4A4F-BBE9-86B9F829B410</string>
-		</dict>
-		<key>971712DB-1215-420D-8FFA-2B45321AABF6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>971712DB-1215-420D-8FFA-2B45321AABF6.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576793186.42655694</real>
-			<key>timeStoppedRecording</key>
-			<real>576793230.62091601</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>971712DB-1215-420D-8FFA-2B45321AABF6</string>
-		</dict>
-		<key>975B1E84-BE46-454D-98C2-F3F803176EC3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>975B1E84-BE46-454D-98C2-F3F803176EC3.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576842454.56378496</real>
-			<key>timeStoppedRecording</key>
-			<real>576842456.16331506</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>975B1E84-BE46-454D-98C2-F3F803176EC3</string>
-		</dict>
-		<key>9C672AE0-BCDD-47F8-9DC1-174FD6572097</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9C672AE0-BCDD-47F8-9DC1-174FD6572097.xcactivitylog</string>
+			<string>AAFB3CBE-5527-4A5E-B622-A3F47F990769.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1767,15 +839,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576844811.98162603</real>
+			<real>577123975.53583503</real>
 			<key>timeStoppedRecording</key>
-			<real>576844825.34562302</real>
+			<real>577124009.34233403</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>9C672AE0-BCDD-47F8-9DC1-174FD6572097</string>
+			<string>AAFB3CBE-5527-4A5E-B622-A3F47F990769</string>
 		</dict>
-		<key>9DEDE7FE-5F8A-4E77-B821-D69184B9ABFF</key>
+		<key>AC7233C6-9F41-4778-8EB7-2D79428DF024</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1784,36 +856,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9DEDE7FE-5F8A-4E77-B821-D69184B9ABFF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576841553.13442898</real>
-			<key>timeStoppedRecording</key>
-			<real>576841554.38394904</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>9DEDE7FE-5F8A-4E77-B821-D69184B9ABFF</string>
-		</dict>
-		<key>A7153D70-0E49-4FAD-A4C3-7A6FF5FB557A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A7153D70-0E49-4FAD-A4C3-7A6FF5FB557A.xcactivitylog</string>
+			<string>AC7233C6-9F41-4778-8EB7-2D79428DF024.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1825,15 +868,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576850255.05460095</real>
+			<real>577112412.60683095</real>
 			<key>timeStoppedRecording</key>
-			<real>576850310.29654002</real>
+			<real>577112430.96522796</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>A7153D70-0E49-4FAD-A4C3-7A6FF5FB557A</string>
+			<string>AC7233C6-9F41-4778-8EB7-2D79428DF024</string>
 		</dict>
-		<key>A75ECFA1-DF3E-4774-9433-9B8E6E227FAF</key>
+		<key>B462BE48-2981-41BA-B24C-F6F7770CB386</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1842,7 +885,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A75ECFA1-DF3E-4774-9433-9B8E6E227FAF.xcactivitylog</string>
+			<string>B462BE48-2981-41BA-B24C-F6F7770CB386.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1854,15 +897,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576851710.42928505</real>
+			<real>577116591.85379601</real>
 			<key>timeStoppedRecording</key>
-			<real>576851738.52972603</real>
+			<real>577116613.27704298</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>A75ECFA1-DF3E-4774-9433-9B8E6E227FAF</string>
+			<string>B462BE48-2981-41BA-B24C-F6F7770CB386</string>
 		</dict>
-		<key>A9E51305-A252-41D2-8A6B-26DC6A6ADD35</key>
+		<key>BBF60AF4-550A-4624-82CF-9C5FFF54F81E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1871,7 +914,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A9E51305-A252-41D2-8A6B-26DC6A6ADD35.xcactivitylog</string>
+			<string>BBF60AF4-550A-4624-82CF-9C5FFF54F81E.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -1883,15 +926,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576840248.24431205</real>
+			<real>577118818.96183205</real>
 			<key>timeStoppedRecording</key>
-			<real>576840303.10425901</real>
+			<real>577118829.02594995</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>A9E51305-A252-41D2-8A6B-26DC6A6ADD35</string>
+			<string>BBF60AF4-550A-4624-82CF-9C5FFF54F81E</string>
 		</dict>
-		<key>AD732E7C-37D4-4C89-9644-C40893DA41E8</key>
+		<key>C1620745-7EB1-485A-8840-F759FDC6DE69</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1900,152 +943,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AD732E7C-37D4-4C89-9644-C40893DA41E8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576819253.34408402</real>
-			<key>timeStoppedRecording</key>
-			<real>576819253.91352606</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>AD732E7C-37D4-4C89-9644-C40893DA41E8</string>
-		</dict>
-		<key>AD944559-5990-4484-8E3E-5935B49C676F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AD944559-5990-4484-8E3E-5935B49C676F.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576817758.04874802</real>
-			<key>timeStoppedRecording</key>
-			<real>576817761.15012205</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>AD944559-5990-4484-8E3E-5935B49C676F</string>
-		</dict>
-		<key>B1F997B4-CA6E-4228-A3FC-1ACFB3CD6795</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B1F997B4-CA6E-4228-A3FC-1ACFB3CD6795.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576793345.76477206</real>
-			<key>timeStoppedRecording</key>
-			<real>576793351.96594799</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>B1F997B4-CA6E-4228-A3FC-1ACFB3CD6795</string>
-		</dict>
-		<key>B2681F51-2FC4-4259-ABE6-C3E09D3C574D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B2681F51-2FC4-4259-ABE6-C3E09D3C574D.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576844178.76306403</real>
-			<key>timeStoppedRecording</key>
-			<real>576844182.01369798</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>B2681F51-2FC4-4259-ABE6-C3E09D3C574D</string>
-		</dict>
-		<key>B2A706C5-B258-4FFC-9A81-2967771A8F18</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B2A706C5-B258-4FFC-9A81-2967771A8F18.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576794034.10694206</real>
-			<key>timeStoppedRecording</key>
-			<real>576794045.29789698</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>B2A706C5-B258-4FFC-9A81-2967771A8F18</string>
-		</dict>
-		<key>B74490DD-F56E-42A8-A08D-E8C36407641F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B74490DD-F56E-42A8-A08D-E8C36407641F.xcactivitylog</string>
+			<string>C1620745-7EB1-485A-8840-F759FDC6DE69.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2057,15 +955,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576776539.75261605</real>
+			<real>577122533.39147794</real>
 			<key>timeStoppedRecording</key>
-			<real>576776557.79719806</real>
+			<real>577122543.24797297</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>B74490DD-F56E-42A8-A08D-E8C36407641F</string>
+			<string>C1620745-7EB1-485A-8840-F759FDC6DE69</string>
 		</dict>
-		<key>BC4A1172-7393-4AE3-837D-398FD4938723</key>
+		<key>C9723163-7ED9-4F42-968D-C2296B64DBFC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2074,65 +972,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BC4A1172-7393-4AE3-837D-398FD4938723.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576841421.17631197</real>
-			<key>timeStoppedRecording</key>
-			<real>576841423.32999206</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>BC4A1172-7393-4AE3-837D-398FD4938723</string>
-		</dict>
-		<key>C4063B93-4618-4ED7-90D7-66F502FDA811</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C4063B93-4618-4ED7-90D7-66F502FDA811.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576850723.80025899</real>
-			<key>timeStoppedRecording</key>
-			<real>576850725.62567604</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>C4063B93-4618-4ED7-90D7-66F502FDA811</string>
-		</dict>
-		<key>C565C5E2-9BD0-4A17-9BD7-4CE176F40D81</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C565C5E2-9BD0-4A17-9BD7-4CE176F40D81.xcactivitylog</string>
+			<string>C9723163-7ED9-4F42-968D-C2296B64DBFC.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2144,15 +984,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576817436.11156201</real>
+			<real>577121466.11509299</real>
 			<key>timeStoppedRecording</key>
-			<real>576817450.09622896</real>
+			<real>577121478.99073398</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>C565C5E2-9BD0-4A17-9BD7-4CE176F40D81</string>
+			<string>C9723163-7ED9-4F42-968D-C2296B64DBFC</string>
 		</dict>
-		<key>CC88FC95-2951-48ED-8DEA-91687F31D540</key>
+		<key>CC463DF7-2B78-4FC8-A41C-BE0348AC969F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2161,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CC88FC95-2951-48ED-8DEA-91687F31D540.xcactivitylog</string>
+			<string>CC463DF7-2B78-4FC8-A41C-BE0348AC969F.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2173,15 +1013,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576840138.86143601</real>
+			<real>577109345.59653604</real>
 			<key>timeStoppedRecording</key>
-			<real>576840152.60780895</real>
+			<real>577109427.754233</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>CC88FC95-2951-48ED-8DEA-91687F31D540</string>
+			<string>CC463DF7-2B78-4FC8-A41C-BE0348AC969F</string>
 		</dict>
-		<key>CCC9C1A8-5C54-4DD9-B91C-542DFC2B9E4A</key>
+		<key>D2EBB357-03F0-4A77-A94C-E2BB6B0E13DC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2190,7 +1030,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CCC9C1A8-5C54-4DD9-B91C-542DFC2B9E4A.xcactivitylog</string>
+			<string>D2EBB357-03F0-4A77-A94C-E2BB6B0E13DC.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2202,15 +1042,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576850937.05026901</real>
+			<real>577120690.29963398</real>
 			<key>timeStoppedRecording</key>
-			<real>576850955.64967203</real>
+			<real>577120690.49604499</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>CCC9C1A8-5C54-4DD9-B91C-542DFC2B9E4A</string>
+			<string>D2EBB357-03F0-4A77-A94C-E2BB6B0E13DC</string>
 		</dict>
-		<key>D78845C6-2B94-4526-A577-54B01CBD0BD1</key>
+		<key>EE66F310-9F27-46AA-ACC5-C3EBEDE86745</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2219,36 +1059,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D78845C6-2B94-4526-A577-54B01CBD0BD1.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576795961.36105394</real>
-			<key>timeStoppedRecording</key>
-			<real>576795972.20323801</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>D78845C6-2B94-4526-A577-54B01CBD0BD1</string>
-		</dict>
-		<key>D884E24F-4383-4C84-8EDF-FB6778FA0620</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D884E24F-4383-4C84-8EDF-FB6778FA0620.xcactivitylog</string>
+			<string>EE66F310-9F27-46AA-ACC5-C3EBEDE86745.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2260,15 +1071,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576804193.85702395</real>
+			<real>577121008.09241998</real>
 			<key>timeStoppedRecording</key>
-			<real>576804199.89485598</real>
+			<real>577121026.19655204</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>D884E24F-4383-4C84-8EDF-FB6778FA0620</string>
+			<string>EE66F310-9F27-46AA-ACC5-C3EBEDE86745</string>
 		</dict>
-		<key>DF39685A-5747-4AF7-963F-04E023F19BD6</key>
+		<key>F9A336D3-9AD3-456E-83E8-F104B53FE4EC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2277,7 +1088,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DF39685A-5747-4AF7-963F-04E023F19BD6.xcactivitylog</string>
+			<string>F9A336D3-9AD3-456E-83E8-F104B53FE4EC.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2289,15 +1100,15 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576841804.48554397</real>
+			<real>577124343.76908505</real>
 			<key>timeStoppedRecording</key>
-			<real>576841813.64402103</real>
+			<real>577124355.14027095</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>DF39685A-5747-4AF7-963F-04E023F19BD6</string>
+			<string>F9A336D3-9AD3-456E-83E8-F104B53FE4EC</string>
 		</dict>
-		<key>E8A996B6-60D9-4E28-A71F-53316848015A</key>
+		<key>FF8A2538-E1A7-4EA1-B2B0-D82E42D67F9C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2306,36 +1117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E8A996B6-60D9-4E28-A71F-53316848015A.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576841677.35379601</real>
-			<key>timeStoppedRecording</key>
-			<real>576841678.43147695</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>E8A996B6-60D9-4E28-A71F-53316848015A</string>
-		</dict>
-		<key>E8E67396-75CF-4209-8923-80760BFD3C3A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E8E67396-75CF-4209-8923-80760BFD3C3A.xcactivitylog</string>
+			<string>FF8A2538-E1A7-4EA1-B2B0-D82E42D67F9C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -2347,303 +1129,13 @@
 			<key>signature</key>
 			<string>Build sasheramed</string>
 			<key>timeStartedRecording</key>
-			<real>576802225.01531696</real>
+			<real>577112122.98468101</real>
 			<key>timeStoppedRecording</key>
-			<real>576802378.19294</real>
+			<real>577112139.01870406</real>
 			<key>title</key>
 			<string>Build sasheramed</string>
 			<key>uniqueIdentifier</key>
-			<string>E8E67396-75CF-4209-8923-80760BFD3C3A</string>
-		</dict>
-		<key>ED48A99C-6D89-4D20-B149-4320B58733AC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ED48A99C-6D89-4D20-B149-4320B58733AC.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576845321.78332698</real>
-			<key>timeStoppedRecording</key>
-			<real>576845332.32453001</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>ED48A99C-6D89-4D20-B149-4320B58733AC</string>
-		</dict>
-		<key>F1E355F6-401C-4108-BF50-EF8CBFE9451B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F1E355F6-401C-4108-BF50-EF8CBFE9451B.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576851791.90360498</real>
-			<key>timeStoppedRecording</key>
-			<real>576851804.44232202</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>F1E355F6-401C-4108-BF50-EF8CBFE9451B</string>
-		</dict>
-		<key>F225691D-4060-4532-BE06-FB928C12737A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F225691D-4060-4532-BE06-FB928C12737A.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576803615.96427298</real>
-			<key>timeStoppedRecording</key>
-			<real>576803633.42745101</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>F225691D-4060-4532-BE06-FB928C12737A</string>
-		</dict>
-		<key>F4B07A5F-C07C-415B-BFAA-16DBAC463DA7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F4B07A5F-C07C-415B-BFAA-16DBAC463DA7.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576819225.65254903</real>
-			<key>timeStoppedRecording</key>
-			<real>576819228.41647696</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>F4B07A5F-C07C-415B-BFAA-16DBAC463DA7</string>
-		</dict>
-		<key>F5E8DC55-A8FE-4335-AA9A-17BFE69C4180</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F5E8DC55-A8FE-4335-AA9A-17BFE69C4180.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576804136.89716601</real>
-			<key>timeStoppedRecording</key>
-			<real>576804142.10129499</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>F5E8DC55-A8FE-4335-AA9A-17BFE69C4180</string>
-		</dict>
-		<key>FC305D65-7382-40EF-A3DA-D8CA7728D1B6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FC305D65-7382-40EF-A3DA-D8CA7728D1B6.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Clean sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576793153.67857504</real>
-			<key>timeStoppedRecording</key>
-			<real>576793163.28764904</real>
-			<key>title</key>
-			<string>Clean sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>FC305D65-7382-40EF-A3DA-D8CA7728D1B6</string>
-		</dict>
-		<key>FE1F1100-F289-4119-B238-0680E4E330AC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE1F1100-F289-4119-B238-0680E4E330AC.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576770701.69855201</real>
-			<key>timeStoppedRecording</key>
-			<real>576770722.97617698</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>FE1F1100-F289-4119-B238-0680E4E330AC</string>
-		</dict>
-		<key>FEE9FF6B-CFBF-4F29-810C-5CDE0BAB838E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FEE9FF6B-CFBF-4F29-810C-5CDE0BAB838E.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576851170.38933206</real>
-			<key>timeStoppedRecording</key>
-			<real>576851188.20598495</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>FEE9FF6B-CFBF-4F29-810C-5CDE0BAB838E</string>
-		</dict>
-		<key>FF19FD7C-17D1-4200-93C2-D55F843706CC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FF19FD7C-17D1-4200-93C2-D55F843706CC.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576800911.32574201</real>
-			<key>timeStoppedRecording</key>
-			<real>576800911.74929297</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>FF19FD7C-17D1-4200-93C2-D55F843706CC</string>
-		</dict>
-		<key>FF5806D0-3446-4332-BD4A-5AF08FA716C5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FF5806D0-3446-4332-BD4A-5AF08FA716C5.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sasheramed project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sasheramed</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sasheramed</string>
-			<key>timeStartedRecording</key>
-			<real>576850807.98294497</real>
-			<key>timeStoppedRecording</key>
-			<real>576850808.78667104</real>
-			<key>title</key>
-			<string>Build sasheramed</string>
-			<key>uniqueIdentifier</key>
-			<string>FF5806D0-3446-4332-BD4A-5AF08FA716C5</string>
+			<string>FF8A2538-E1A7-4EA1-B2B0-D82E42D67F9C</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,40 +1,35 @@
 //
-//  SignUpVM.swift
+//  PersonalAreaVM.swift
 //  sasheramed
 //
-//  Created by Aleksandr on 4/12/19.
+//  Created by Aleksandr on 4/16/19.
 //  Copyright © 2019 Aleksandr. All rights reserved.
 //
-
 import RxSwift
 
-import NotificationBannerSwift
-
-public final class SignUpVM {
+class PersonalAreaVM{
     
-    private let mInteractor: AuthInteractor
+    private let mInteractor: UserInteractor
     private let mCacher: Cacher
     
-    public var isAuth: Variable<Bool> = Variable<Bool>(false)
+    var form: UserForm = UserForm()
     
-    let form = SignUpForm()
-    
-    init(_ authInteractor: AuthInteractor, _ cacher: Cacher) {
+    init(_ authInteractor: UserInteractor, _ cacher: Cacher) {
         self.mInteractor = authInteractor
         self.mCacher = cacher
+        loadProfile()
     }
     
-    func signUp(){
-        _ = mInteractor.signUp(form)
+    func loadProfile(){
+        _ = mInteractor.getUser()
             .observeOn(MainScheduler.instance)
             .subscribe(
                 onSuccess:{ value in
-                    self.isAuth.value = true
+                    self.form.email.value = value.email
             },
                 onError: { error in
                     self.mCacher.process(error)
             }
         )
     }
-    
 }

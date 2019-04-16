@@ -4,6 +4,11 @@
 <dict>
 	<key>NSAppTransportSecurity</key>
 	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>achera-med.tisrol1m.beget.tech</key>
+			<string>sachera-med.tisrol1m.beget.tech</string>
+		</dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>

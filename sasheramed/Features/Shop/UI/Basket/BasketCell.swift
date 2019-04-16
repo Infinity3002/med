@@ -16,7 +16,7 @@ class BasketCell: UITableViewCell{
     
     func bind(_ item: Product){
         lTitle.text = item.name
-        lPrice.text = String(item.price) + " p."
-        lCount.text = "Кол-во: " + String(item.count)
+        lPrice.text = (item.price?.price ?? "0") + " p."
+        lCount.text = "Кол-во: " + String(item.count ?? 0)
     }
 }

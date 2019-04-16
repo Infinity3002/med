@@ -29,14 +29,14 @@ import UIKit
     }
     
     
-    @IBInspectable open var padding: CGFloat = 5 {
+    @IBInspectable open var padding: CGFloat = 15 {
         didSet {
             setNeedsLayout()
             update(for: progress)
         }
     }
     
-    @IBInspectable open var radius: CGFloat = 10 {
+    @IBInspectable open var radius: CGFloat = 5 {
         didSet {
             setNeedsLayout()
             update(for: progress)

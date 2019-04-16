@@ -173,6 +173,8 @@ extension UIView {
     
 }
 
+
+
 extension UIImage {
     func imageWithInsets(insets: UIEdgeInsets) -> UIImage? {
         UIGraphicsBeginImageContextWithOptions(
@@ -202,5 +204,56 @@ extension UIImage {
         let size = super.intrinsicContentSize
         return CGSize(width: size.width + leftInset + rightInset,
                       height: size.height + topInset + bottomInset)
+    }
+}
+extension UIImageView {
+    func downloaded(from url: URL, contentMode mode: UIView.ContentMode = .scaleAspectFit) {  // for swift 4.2 syntax just use ===> mode: UIView.ContentMode
+        contentMode = mode
+        NSLog("loadImage: \(url)")
+        URLSession.shared.dataTask(with: url) { data, response, error in
+            guard
+                let httpURLResponse = response as? HTTPURLResponse, httpURLResponse.statusCode == 200,
+                let mimeType = response?.mimeType, mimeType.hasPrefix("image"),
+                let data = data, error == nil,
+                let image = UIImage(data: data)
+                else { return }
+            DispatchQueue.main.async() {
+                self.image = image
+            }
+            }.resume()
+    }
+    func downloaded(from link: String, contentMode mode: UIView.ContentMode = .scaleAspectFit) {  // for swift 4.2 syntax just use ===> mode: UIView.ContentMode
+        guard let url = URL(string: link) else { return }
+         NSLog("loadImage: \(link)")
+        downloaded(from: url, contentMode: mode)
+    }
+}
+
+extension String {
+    
+    var utfData: Data {
+        return Data(utf8)
+    }
+    
+    var attributedHtmlString: NSAttributedString? {
+        
+        do {
+            return try NSAttributedString(data: utfData,
+                                          options: [
+                                            .documentType: NSAttributedString.DocumentType.html,
+                                            .characterEncoding: String.Encoding.utf8.rawValue
+                ], documentAttributes: nil)
+        } catch {
+            print("Error:", error)
+            return nil
+        }
+    }
+}
+
+extension UILabel {
+    func setAttributedHtmlText(_ html: String) {
+        if let attributedText = html.attributedHtmlString {
+            self.attributedText = attributedText
+        }
     }
 }

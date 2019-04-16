@@ -22,9 +22,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window.backgroundColor = UIColor.white
         window.makeKeyAndVisible()
         self.window = window
-        
+//        let s =  SwinjectStoryboard.create(name: "User", bundle: nil, container: userhModule)
+//
+//        window.rootViewController =  s.instantiateViewController(withIdentifier: "PersonalAreaVC")
         let storyboard = SwinjectStoryboard.create(name: "Auth", bundle: nil, container: authModule)
-        window.rootViewController = storyboard.instantiateInitialViewController()
+         window.rootViewController =  storyboard.instantiateInitialViewController()
         return true
     }
 
